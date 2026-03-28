@@ -1,0 +1,1659 @@
+###################
+# 
+
+# Apple
+IP-CIDR,17.0.0.0/8,no-resolve
+
+
+#######
+IP-CIDR,34.102.215.99/32,no-resolve
+IP-CIDR,13.248.139.174/32,no-resolve
+
+
+###### google
+IP-CIDR,216.239.35.12/24,no-resolve
+
+
+##############
+IP-CIDR,216.239.35.4/32,no-resolve
+IP-CIDR,44.234.93.167/32,no-resolve
+
+
+#
+IP-CIDR,43.153.236.237/32,no-resolve
+IP-CIDR,157.175.123.220/32,no-resolve
+
+
+### 剑与远征：启程（国际服）
+IP-CIDR,34.128.180.4/32,no-resolve
+
+
+####
+IP-CIDR,43.160.156.219/32,no-resolve
+IP-CIDR,43.160.156.199/32,no-resolve
+
+
+# 开罗game
+IP-CIDR,108.59.2.24/32,no-resolve
+IP-CIDR,162.159.200.123/32,no-resolve
+IP-CIDR,162.159.200.1/32,no-resolve
+
+
+##### netflav
+
+IP-CIDR,5.180.24.81/32,no-resolve
+IP-CIDR,91.211.90.136/32,no-resolve
+
+
+
+
+##### VPS
+
+# 域名
+DOMAIN-SUFFIX,fgqwert.xyz
+
+IP-CIDR,178.157.63.174/32,no-resolve
+
+IP-CIDR,104.224.153.215/32,no-resolve
+
+IP-CIDR,74.211.105.85/32,no-resolve
+
+IP-CIDR,45.78.57.24/32,no-resolve
+
+###
+IP-CIDR,67.230.172.166/32,no-resolve
+
+IP-CIDR,138.128.192.95/32,no-resolve
+###############
+
+
+
+
+
+############
+
+IP-CIDR,1.1.1.1/32,no-resolve  
+
+IP-CIDR,35.71.144.86/32,no-resolve  
+
+IP-CIDR,132.163.96.3/32,no-resolve
+
+#####################################
+
+
+# Cloudflare
+IP-CIDR,172.67.137.243/32,no-resolve
+IP-CIDR,104.21.86.243/32,no-resolve
+
+
+
+
+# Quad9 
+IP-CIDR,9.9.9.11/32,no-resolve
+
+# pikpak
+
+DOMAIN-KEYWORD,pikpak
+
+# tiktok
+
+DOMAIN-KEYWORD,tiktok
+
+# haijiao
+DOMAIN-KEYWORD,apiv1
+DOMAIN-KEYWORD,apiv2
+DOMAIN-KEYWORD,apiv3
+
+
+
+DOMAIN-SUFFIX,limbopro.com 
+DOMAIN-SUFFIX,surge.mitsea.com 
+DOMAIN-SUFFIX,adguard.io
+DOMAIN-SUFFIX,surge-activation.com
+
+DOMAIN-SUFFIX,redircdn.com 
+DOMAIN-SUFFIX,66img.cc 
+DOMAIN-SUFFIX,jpg.dog 
+DOMAIN-SUFFIX,skeimg.com 
+DOMAIN-SUFFIX,lefu.men 
+DOMAIN-SUFFIX,thumbsnap.com 
+DOMAIN-SUFFIX,im.ge 
+DOMAIN-SUFFIX,picel48.com 
+DOMAIN-SUFFIX,blr844.com 
+DOMAIN-SUFFIX,sda1.dev // Added for: p.sda1.dev:443
+DOMAIN-SUFFIX,qpic.ws // Added for: qpic.ws:443
+DOMAIN-SUFFIX,uploadhouse.com // Added for: img8.uploadhouse.com:443
+DOMAIN-SUFFIX,mmd.asia // Added for: mmd.asia:443
+DOMAIN-SUFFIX,imgbox.com // Added for: images2.imgbox.com:443
+DOMAIN-SUFFIX,gov.hk // Added for: www.gov.hk:443
+DOMAIN-SUFFIX,ax1x.com // Added for: s1.ax1x.com:443
+DOMAIN-SUFFIX,acg.lol // Added for: image.acg.lol:443
+DOMAIN-SUFFIX,23img.com // Added for: 23img.com:443
+DOMAIN-SUFFIX,yohuo.eu.org // Added for: img.yohuo.eu.org:443
+DOMAIN-SUFFIX,11img.com // Added for: u.11img.com:443
+DOMAIN-SUFFIX,rmdown.com // Added for: www.rmdown.com:443
+DOMAIN-SUFFIX,rkddn.com // Added for: rkddn.com:443
+DOMAIN-SUFFIX,piicca.com // Added for: piicca.com:443
+DOMAIN-SUFFIX,cawdz.com // Added for: cawdz.com:443
+DOMAIN-SUFFIX,piicp.com // Added for: piicp.com:443
+DOMAIN-SUFFIX,7pzzv.us // Added for: tju.7pzzv.us:443
+DOMAIN-SUFFIX,fentaoba.com // Added for: fentaoba.com:443
+DOMAIN-SUFFIX,slvotrt.cc // Added for: 5b5d.slvotrt.cc:443
+DOMAIN-SUFFIX,bbffsl.com // Added for: v2025.bbffsl.com:443
+DOMAIN-SUFFIX,kdwshell.com // Added for: kkembed.kdwshell.com:443
+DOMAIN-SUFFIX,xiaobi195.com // Added for: img.xiaobi195.com:443
+DOMAIN-SUFFIX,edu11video.com // Added for: b2.edu11video.com:2002
+DOMAIN-SUFFIX,hyaa09.com // Added for: hyaa09.com:443
+DOMAIN-SUFFIX,gayzyhh.com // Added for: w.gayzyhh.com:999
+DOMAIN-SUFFIX,follow.is // Added for: api.follow.is:443
+DOMAIN-SUFFIX,colamanga.com // Added for: img.colamanga.com:443
+DOMAIN-SUFFIX,nasa.gov // Added for: apod.nasa.gov:443
+DOMAIN-SUFFIX,imgloc.com // Added for: imgloc.com:443
+
+
+DOMAIN-SUFFIX,emergetools.com // Added for: reaper.emergetools.com:443
+DOMAIN-SUFFIX,s3.iphone8.vip // Added for: s3.iphone8.vip:443
+DOMAIN-SUFFIX,igg-games.com // Added for: igg-games.com:443
+DOMAIN-SUFFIX,fastcomments.com // Added for: cdn.fastcomments.com:443
+DOMAIN-SUFFIX,baozimh.com // Added for: www.baozimh.com:443
+DOMAIN-SUFFIX,xgcartoon.com // Added for: static-a.xgcartoon.com:443
+DOMAIN-SUFFIX,ttkan.co // Added for: static.ttkan.co:443
+DOMAIN-SUFFIX,flower.yt // Added for: flower.yt:443
+DOMAIN-SUFFIX,flowercloud.net // Added for: flowercloud.net:443
+DOMAIN-SUFFIX,emulatorgames.net // Added for: www.emulatorgames.net:443
+DOMAIN-SUFFIX,xiaoxingjie.com // Added for: www.xiaoxingjie.com:443
+DOMAIN-SUFFIX,divineengine.net // Added for: divineengine.net:443
+DOMAIN-SUFFIX,diveng.xyz // Added for: diveng.xyz:443
+DOMAIN-SUFFIX,videoplayerhub.com // Added for: 9to5mac-com.videoplayerhub.com:443
+DOMAIN-SUFFIX,memberful.com // Added for: js.memberful.com:443
+DOMAIN-SUFFIX,plyr.io // Added for: cdn.plyr.io:443
+DOMAIN-SUFFIX,pingme.tel // Added for: pingme.tel:443
+DOMAIN-SUFFIX,yummy.best // Added for: yummy.best:443
+DOMAIN-SUFFIX,unsplash.com // Added for: images.unsplash.com:443
+DOMAIN-SUFFIX,yummy.ghost.io // Added for: yummy.ghost.io:443
+DOMAIN-SUFFIX,vamvideo.cc // Added for: www.vamvideo.cc:443
+DOMAIN-SUFFIX,vamvideo.com // Added for: www.vamvideo.com:443
+DOMAIN-SUFFIX,yfi.moe // Added for: yfi.moe:443
+DOMAIN-SUFFIX,diygod.dev // Added for: umami.diygod.dev:443
+DOMAIN-SUFFIX,hanman18.com // Added for: hanman18.com:443
+DOMAIN-SUFFIX,linearicons.com // Added for: cdn.linearicons.com:443
+DOMAIN-SUFFIX,disq.us // Added for: x.disq.us:443
+
+
+DOMAIN-SUFFIX,t4.qy0.ru // Added for: t4.qy0.ru:443
+DOMAIN-SUFFIX,qy0.ru // Added for: img5.qy0.ru:443
+DOMAIN-SUFFIX,toonily.me // Added for: toonily.me:443
+DOMAIN-SUFFIX,toonilycdnv2.xyz // Added for: sb.toonilycdnv2.xyz:443
+DOMAIN-SUFFIX,madentertainment.xyz // Added for: stickers.madentertainment.xyz:443
+DOMAIN-SUFFIX,0xzx.com // Added for: 0xzx.com:443
+DOMAIN-SUFFIX,gifyu.com // Added for: s9.gifyu.com:443
+DOMAIN-SUFFIX,missuo.ru // Added for: missuo.ru:443
+ 
+DOMAIN-SUFFIX,hutuxs.com // Added for: m.hutuxs.com:443
+DOMAIN-SUFFIX,z-lib.gl // Added for: zh.z-lib.gl:443
+DOMAIN-SUFFIX,cdn-zlib.sk // Added for: s3proxy.cdn-zlib.sk:443
+DOMAIN-SUFFIX,z-library.sk // Added for: z-library.sk:443
+DOMAIN-SUFFIX,z-lib.gs // Added for: z-lib.gs:443
+DOMAIN-SUFFIX,z-lib.fm // Added for: z-lib.fm:443
+DOMAIN-SUFFIX,z-lib.gd // Added for: z-lib.gd:443
+DOMAIN-SUFFIX,z-library.ec // Added for: z-library.ec:443
+DOMAIN-SUFFIX,1lib.sk // Added for: 1lib.sk:443
+DOMAIN-SUFFIX,library-asia.sk // Added for: library-asia.sk:443
+DOMAIN-SUFFIX,articles.sk // Added for: articles.sk:443
+DOMAIN-SUFFIX,article.sk // Added for: article.sk:443
+DOMAIN-SUFFIX,z-lib.sx // Added for: z-lib.sx:443
+DOMAIN-SUFFIX,cnlib.icu // Added for: cnlib.icu:443
+DOMAIN-SUFFIX,openzlib.link // Added for: openzlib.link:443
+DOMAIN-SUFFIX,z-library.website // Added for: z-library.website:443
+DOMAIN-SUFFIX,101ml.life // Added for: 101ml.life:443
+
+DOMAIN-SUFFIX,javhhh.com // Added for: javhhh.com:443
+DOMAIN-SUFFIX,javfc2.net // Added for: javfc2.net:443
+DOMAIN-SUFFIX,fourhoi.com // Added for: fourhoi.com:443
+DOMAIN-SUFFIX,recombee.com // Added for: client-rapi-missav.recombee.com:443
+DOMAIN-SUFFIX,surrit.com // Added for: surrit.com:443
+DOMAIN-SUFFIX,ryderjet.com // Added for: ryderjet.com:443
+DOMAIN-SUFFIX,layback.cc // Added for: layback.cc:443
+DOMAIN-SUFFIX,earnvids.com // Added for: earnvids.com:443
+DOMAIN-SUFFIX,milocdn.com // Added for: ys0i6perdwyn.milocdn.com:443
+DOMAIN-SUFFIX,pondushornish.com // Added for: rb.pondushornish.com:443
+DOMAIN-SUFFIX,xuxe3.com // Added for: g6.xuxe3.com:443
+DOMAIN-SUFFIX,deyigx.com // Added for: a94p.deyigx.com:443
+DOMAIN-SUFFIX,xrk366.com // Added for: an94se.xrk366.com:443
+DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com // Added for: www.cloudflare-terms-of-service-abuse.com:443
+DOMAIN-SUFFIX,155.fun // Added for: 155.fun:443
+DOMAIN-SUFFIX,18hlw.com // Added for: 18hlw.com:443
+DOMAIN-SUFFIX,rvxbewo.cc // Added for: cy4id.rvxbewo.cc:443
+DOMAIN-SUFFIX,vdtuzv.com // Added for: hls.vdtuzv.com:443
+DOMAIN-SUFFIX,hongxiuzhao.net // Added for: hongxiuzhao.net:443
+DOMAIN-SUFFIX,iao.su // Added for: iao.su:443
+DOMAIN-SUFFIX,iui.su // Added for: iui.su:443
+DOMAIN-SUFFIX,freeok.la // Added for: www.freeok.la:443
+DOMAIN-SUFFIX,feitu.tv // Added for: feitu.tv:443
+DOMAIN-SUFFIX,serinuswelling.com // Added for: serinuswelling.com:443
+DOMAIN-SUFFIX,tlkqc.com // Added for: v3.tlkqc.com:443
+DOMAIN-SUFFIX,ddys.one // Added for: ddys.one:443
+DOMAIN-SUFFIX,soupian.pro // Added for: soupian.pro:443
+DOMAIN-SUFFIX,dyxs38.com // Added for: dyxs38.com:443
+DOMAIN-SUFFIX,dianyingim.com // Added for: www.dianyingim.com:443
+DOMAIN-SUFFIX,waipian30.com // Added for: waipian30.com:443
+DOMAIN-SUFFIX,waipian.tv // Added for: waipian.tv:443
+DOMAIN-SUFFIX,guanyingtai.com // Added for: guanyingtai.com:443
+DOMAIN-SUFFIX,555dyy.com // Added for: www.555dyy.com:443
+DOMAIN-SUFFIX,dagongrenyy.com // Added for: dagongrenyy.com:443
+DOMAIN-SUFFIX,dyttlg.com // Added for: www.dyttlg.com:443
+DOMAIN-SUFFIX,yingshikong.com // Added for: www.yingshikong.com:443
+DOMAIN-SUFFIX,zhenbukady.com // Added for: www.zhenbukady.com:443
+DOMAIN-SUFFIX,xiangkanyy.com // Added for: xiangkanyy.com:443
+DOMAIN-SUFFIX,languangdao.com // Added for: languangdao.com:443
+DOMAIN-SUFFIX,naifeiyy.com // Added for: www.naifeiyy.com:443
+DOMAIN-SUFFIX,ffzy-video.com // Added for: vip.ffzy-video.com:443
+DOMAIN-SUFFIX,dyxs.sbs // Added for: w.dyxs.sbs:443
+DOMAIN-SUFFIX,dnsleaktest.com // Added for: dnsleaktest.com:443
+DOMAIN-SUFFIX,namesilo.com // Added for: www.namesilo.com:443
+
+DOMAIN-SUFFIX,featureassets.org // Added for: featureassets.org:443
+DOMAIN-SUFFIX,prodregistryv2.org // Added for: prodregistryv2.org:443
+DOMAIN-SUFFIX,trojan.bojin.co // Added for: trojan.bojin.co:443
+DOMAIN-SUFFIX,gamehivegames.com // Added for: tt2.gamehivegames.com:443
+ 
+DOMAIN-SUFFIX,sybo.net // Added for: manifest.tower.sybo.net:443
+DOMAIN-SUFFIX,playdemic.com // Added for: playgk.playdemic.com:443
+DOMAIN-SUFFIX,photonengine.io // Added for: ns.photonengine.io:5058
+DOMAIN-SUFFIX,ironhidegames.com // Added for: news.ironhidegames.com:443
+
+
+
+DOMAIN-SUFFIX,feiyangdigital.top // Added for: live.feiyangdigital.top:443
+DOMAIN-SUFFIX,qonversion.io // Added for: api.qonversion.io:443
+DOMAIN-SUFFIX,trakt.tv // Added for: api.trakt.tv:443
+DOMAIN-SUFFIX,apps.readdle.com // Added for: middleman.apps.readdle.com:443
+DOMAIN-SUFFIX,fileball.app // Added for: workers.fileball.app:443
+DOMAIN-SUFFIX,iphone8.vip // Added for: iphone8.vip:443
+DOMAIN-SUFFIX,icons8.com // Added for: img.icons8.com:443
+DOMAIN-SUFFIX,9p58b.com // Added for: w1226.9p58b.com:443
+DOMAIN-SUFFIX,tampermonkey.net // Added for: www.tampermonkey.net:443
+DOMAIN-SUFFIX,afafb.com // Added for: tadata.afafb.com:443
+DOMAIN-SUFFIX,expo.dev // Added for: u.expo.dev:443
+DOMAIN-SUFFIX,mozhuazy.com // Added for: mozhuazy.com:443
+DOMAIN-SUFFIX,jszyapi.com // Added for: jszyapi.com:443
+DOMAIN-SUFFIX,wolongzy.cc // Added for: collect.wolongzy.cc:443
+DOMAIN-SUFFIX,huawei8.live // Added for: huawei8.live:443
+DOMAIN-SUFFIX,lziapi.com // Added for: cj.lziapi.com:443
+DOMAIN-SUFFIX,wwzy.tv // Added for: api.wwzy.tv:443
+DOMAIN-SUFFIX,rycjapi.com // Added for: cj.rycjapi.com:443
+DOMAIN-SUFFIX,dbzy.tv // Added for: caiji.dbzy.tv:443
+DOMAIN-SUFFIX,bfzyapi.com // Added for: bfzyapi.com:443
+DOMAIN-SUFFIX,ffzyapi.com // Added for: http://api.ffzyapi.com/api.php/provide/vod/?ac=detail&wd=%E6%96%B0%E7%94%9F
+DOMAIN-SUFFIX,mzzyjpg.com // Added for: mzzyjpg.com:443
+DOMAIN-SUFFIX,mzzyjpg.com // Added for: mzzyjpg.com:443
+DOMAIN-SUFFIX,wangwangzyimg.com // Added for: wangwangzyimg.com:443
+DOMAIN-SUFFIX,bfzypic.com // Added for: img.bfzypic.com:443
+DOMAIN-SUFFIX,m3u8hw8.com // Added for: cos.m3u8hw8.com:443
+DOMAIN-SUFFIX,bfzypic.com // Added for: img.bfzypic.com:443
+DOMAIN-SUFFIX,wlongimg.com // Added for: pic.wlongimg.com:443
+DOMAIN-SUFFIX,ry-pic.com // Added for: ry-pic.com:443
+DOMAIN-SUFFIX,dbzy3.com // Added for: dbzy3.com:443
+DOMAIN-SUFFIX,lzzyimg.com // Added for: img.lzzyimg.com:443
+DOMAIN-SUFFIX,ffzy888.com // Added for: img.ffzy888.com:443
+DOMAIN-SUFFIX,wlcdn99.com // Added for: cdn.wlcdn99.com:777
+DOMAIN-SUFFIX,ryplay3.com // Added for: cdn3.ryplay3.com:443
+DOMAIN-SUFFIX,cdnlz18.com // Added for: v.cdnlz18.com:443
+DOMAIN-SUFFIX,cdnlz2.com // Added for: v.cdnlz2.com:443
+DOMAIN-SUFFIX,rrcdnbf5.com // Added for: c1.rrcdnbf5.com:443
+DOMAIN-SUFFIX,ffzy-online6.com // Added for: super.ffzy-online6.com:443
+DOMAIN-SUFFIX,mzm3u8.com // Added for: mzm3u8.com:443
+DOMAIN-SUFFIX,dns.quad9.net // Added for: dns.quad9.net:443
+DOMAIN-SUFFIX,speedtest.net // Added for: www.speedtest.net:443
+DOMAIN-SUFFIX,cdnst.net // Added for: b.cdnst.net:443
+DOMAIN-SUFFIX,ziffstatic.com // Added for: cdn.ziffstatic.com:443
+DOMAIN,speednld.phoenixnap.com.prod.hosts.ooklaserver.net // Added for: speednld.phoenixnap.com.prod.hosts.ooklaserver.net:8080
+DOMAIN,speedtest-ams.retn.net.prod.hosts.ooklaserver.net // Added for: speedtest-ams.retn.net.prod.hosts.ooklaserver.net:8080
+DOMAIN,speedtest01.ams6.solcon.nl // Added for: speedtest01.ams6.solcon.nl:8080
+DOMAIN,speedtest.tngnet.com.prod.hosts.ooklaserver.net // Added for: speedtest.tngnet.com.prod.hosts.ooklaserver.net:8080
+DOMAIN,speedtest1.nextpertise.nl.prod.hosts.ooklaserver.net // Added for: speedtest1.nextpertise.nl.prod.hosts.ooklaserver.net:8080
+DOMAIN,speedtest.nl.novoserve.com // Added for: speedtest.nl.novoserve.com:8080
+DOMAIN,speedtest1-qupra-ams-nl.ebgp.fi // Added for: speedtest1-qupra-ams-nl.ebgp.fi:8080
+DOMAIN,speedtest.ams.t-mobile.nl.prod.hosts.ooklaserver.net // Added for: speedtest.ams.t-mobile.nl.prod.hosts.ooklaserver.net:8080
+DOMAIN,ams-eq6-tptest1.31173.se // Added for: ams-eq6-tptest1.31173.se:8080
+DOMAIN,nl.speedtest.labixe.net.prod.hosts.ooklaserver.net // Added for: nl.speedtest.labixe.net.prod.hosts.ooklaserver.net:8080
+DOMAIN-SUFFIX,ooklaserver.net // Added for: co2dsvr03.speedtest.starhub.com.prod.hosts.ooklaserver.net:8080
+DOMAIN-SUFFIX,speedtest.singnet.com.sg // Added for: speedtest.singnet.com.sg:8080
+DOMAIN-SUFFIX,m1net.com.sg // Added for: m1speedtest1.m1net.com.sg:8080
+DOMAIN-SUFFIX,vqbn.com // Added for: speedtest10.vqbn.com:8080
+DOMAIN-SUFFIX,openpanel.dev // Added for: openpanel.dev:443
+DOMAIN-SUFFIX,followin.io // Added for: followin.io:443
+DOMAIN-SUFFIX,unavatar.webp.se // Added for: unavatar.webp.se:443
+DOMAIN-SUFFIX,presslogic.com // Added for: assets.presslogic.com:443
+DOMAIN-SUFFIX,10xpmg.com // Added for: b23.10xpmg.com:443
+DOMAIN-SUFFIX,oz0ays.app // Added for: pj.oz0ays.app:443
+DOMAIN-SUFFIX,ov7v.app // Added for: ov7v.app:443
+DOMAIN-SUFFIX,fulih3.com // Added for: img.fulih3.com:443
+DOMAIN-SUFFIX,fld777.com // Added for: www.fld777.com:443
+DOMAIN-SUFFIX,cosine.ren // Added for: piv.cosine.ren:443
+DOMAIN-SUFFIX,techhub.social // Added for: files.techhub.social:443
+DOMAIN-SUFFIX,16k.club // Added for: img.16k.club:443
+DOMAIN-SUFFIX,sshs.rip // Added for: cdn.sshs.rip:443
+DOMAIN-SUFFIX,tpimg.xyz // Added for: mt.tpimg.xyz:443
+DOMAIN-SUFFIX,2048.spa // Added for: img.2048.spa:443
+DOMAIN-SUFFIX,pixwox.com // Added for: sp1.pixwox.com:443
+DOMAIN-SUFFIX,wallhaven.cc // Added for: w.wallhaven.cc:443
+DOMAIN-SUFFIX,techlife.app // Added for: comment.techlife.app:443
+DOMAIN-SUFFIX,rdl.ink // Added for: rdl.ink:443
+DOMAIN-SUFFIX,linux.do // Added for: linux.do:443
+DOMAIN-SUFFIX,nasdaddy.com // Added for: nasdaddy.com:443
+DOMAIN-SUFFIX,wsrv.nl // Added for: wsrv.nl:443
+DOMAIN-SUFFIX,xlab.app // Added for: wechat2rss.xlab.app:443
+DOMAIN-SUFFIX,k99i.com // Added for: www.k99i.com:443
+DOMAIN-SUFFIX,hostcsr.com // Added for: hostcsr.com:443
+
+DOMAIN-SUFFIX,gwyvusam.com // Added for: www.gwyvusam.com:443
+DOMAIN,surge.qingr.moe // Added for: surge.qingr.moe:443
+DOMAIN-SUFFIX,nssurge.com // Added for: community.nssurge.com:443
+DOMAIN-SUFFIX,91selfie.com // Added for: fans.91selfie.com:443
+DOMAIN-SUFFIX,killcovid2021.com // Added for: vthumb.killcovid2021.com:443
+DOMAIN-SUFFIX,btc620.com // Added for: la.btc620.com:443
+DOMAIN-SUFFIX,btc760.com // Added for: t1229.btc760.com:443
+DOMAIN-SUFFIX,api-huacloud.com // Added for: api-huacloud.com:443
+ 
+DOMAIN-SUFFIX,violin.co.th // Added for: bassoon-sg-1.violin.co.th:8080
+DOMAIN-SUFFIX,cloudhost.asia // Added for: sg.cloudhost.asia:8080
+DOMAIN-SUFFIX,phoenixnap.com // Added for: speedsin.phoenixnap.com:8080
+DOMAIN-SUFFIX,fdcservers.net // Added for: lg-sin.fdcservers.net:8080
+DOMAIN-SUFFIX,photobucket.com // Added for: hosting.photobucket.com:443
+DOMAIN-SUFFIX,mzm3u8.vip // Added for: mzm3u8.vip:443
+DOMAIN-SUFFIX,ffzy-online5.com // Added for: svipsvip.ffzy-online5.com:443
+DOMAIN-SUFFIX,ryplay12.com // Added for: cdn.ryplay12.com:443
+DOMAIN-SUFFIX,ryplay4.com // Added for: cdn4.ryplay4.com:443
+DOMAIN-SUFFIX,lzzypic.com // Added for: pic.lzzypic.com:443
+DOMAIN-SUFFIX,ryplay7.com // Added for: cdn7.ryplay7.com:443
+DOMAIN-SUFFIX,ffzy-play8.com // Added for: vip.ffzy-play8.com:443
+DOMAIN-SUFFIX,lz-cdn1.com // Added for: vip1.lz-cdn1.com:443
+DOMAIN-SUFFIX,lz-cdn7.com // Added for: vip1.lz-cdn7.com:443
+DOMAIN-SUFFIX,viptulz.com // Added for: viptulz.com:443
+DOMAIN-SUFFIX,lzcdn25.com // Added for: v.lzcdn25.com:443
+DOMAIN-SUFFIX,ryplay13.com // Added for: svip.ryplay13.com:443
+DOMAIN-SUFFIX,7bbffvip.com // Added for: c1.7bbffvip.com:443
+DOMAIN-SUFFIX,nikanba.live // Added for: m3u.nikanba.live:443
+DOMAIN-SUFFIX,whois.com // Added for: www.whois.com:443
+DOMAIN-SUFFIX,bulianglin.com // Added for: bulianglin.com:443
+DOMAIN-SUFFIX,5best1s.com // Added for: 5best1s.com:443
+DOMAIN-SUFFIX,naixxzy.com // Added for: naixxzy.com:443
+DOMAIN-SUFFIX,oknnews.com // Added for: oknnews.com:443
+DOMAIN-SUFFIX,liangzipic.com // Added for: img.liangzipic.com:443
+DOMAIN-SUFFIX,huishij.com // Added for: pic.huishij.com:443
+DOMAIN-SUFFIX,wyvod.com // Added for: www.wyvod.com:443
+DOMAIN-SUFFIX,lz-cdn14.com // Added for: vip.lz-cdn14.com:443
+DOMAIN-SUFFIX,cdnlz22.com // Added for: v.cdnlz22.com:443
+DOMAIN-SUFFIX,l3n.co // Added for: a.l3n.co:443
+DOMAIN-SUFFIX,blu-ray.com // Added for: www.blu-ray.com:443
+DOMAIN-SUFFIX,static-bluray.com // Added for: ssl.static-bluray.com:443
+DOMAIN-SUFFIX,cdnlz21.com // Added for: v.cdnlz21.com:443
+DOMAIN-SUFFIX,lz-cdn5.com // Added for: vip.lz-cdn5.com:443
+DOMAIN-SUFFIX,ninjakiwi.com // Added for: api.ninjakiwi.com:443
+DOMAIN-SUFFIX,nkstatic.com // Added for: static-api.nkstatic.com:443
+DOMAIN-SUFFIX,mrf.io // Added for: sdk.mrf.io:443
+DOMAIN-SUFFIX,newsroom.bi // Added for: icu.newsroom.bi:443
+DOMAIN-SUFFIX,assertcom.de // Added for: api.assertcom.de:443
+DOMAIN-SUFFIX,lz-cdn9.com // Added for: vip.lz-cdn9.com:443
+DOMAIN-SUFFIX,ryplay10.com
+DOMAIN-SUFFIX,21img.com // Added for: 21img.com:80
+DOMAIN-SUFFIX,mhancotf.com // Added for: www.mhancotf.com:443
+
+
+########################
+######################
+
+DOMAIN-SUFFIX,axvdhiowntw.com
+DOMAIN-SUFFIX,aggjatzizxuc.com
+DOMAIN-SUFFIX,sacaftdu.com
+DOMAIN-SUFFIX,pfoafhojpdf.com
+DOMAIN-SUFFIX,mhancotf.com
+DOMAIN-SUFFIX,tzojiqrixpma.com
+DOMAIN-SUFFIX,digitalmelody.ovh
+DOMAIN-SUFFIX,kaptcha.com // Added for: ssl.kaptcha.com:443
+ 
+DOMAIN-SUFFIX,wolongzyw.com // Added for: collect.wolongzyw.com:443
+DOMAIN-SUFFIX,tiankongapi.com // Added for: api.tiankongapi.com:443
+DOMAIN-SUFFIX,hutchgames.io
+
+DOMAIN-SUFFIX,usercentrics.eu
+DOMAIN-SUFFIX,hysteria.network // Added for: v2.hysteria.network:443
+DOMAIN-SUFFIX,ybfl.xyz // Added for: pic.ybfl.xyz:443
+DOMAIN-SUFFIX,ybfl.net // Added for: ybfl.net:443
+DOMAIN-SUFFIX,qevoydpt.xyz // Added for: 6s3v1.qevoydpt.xyz:443
+DOMAIN-SUFFIX,qbjkzwi.xyz // Added for: tlq75.qbjkzwi.xyz:443
+DOMAIN-SUFFIX,ldstatic.com // Added for: cdn.ldstatic.com:443
+
+DOMAIN-SUFFIX,whats-on-netflix.com // Added for: whats-on-netflix.com:443
+
+
+
+#######################
+########
+
+DOMAIN-SUFFIX,v2ex.co
+
+DOMAIN-SUFFIX,mmapiws.com
+
+DOMAIN-SUFFIX,touchbits.com
+
+DOMAIN-SUFFIX,maxmind.com
+
+DOMAIN-SUFFIX,papakatsu.co
+
+DOMAIN-SUFFIX,2img.org
+
+DOMAIN-SUFFIX,gemxc82kg.com
+
+DOMAIN-SUFFIX,imgccc.com
+
+DOMAIN-SUFFIX,imagehaha.com
+
+DOMAIN-SUFFIX,netok.xyz
+
+DOMAIN-SUFFIX,pximg.org
+
+DOMAIN-SUFFIX,ccimg.xyz
+
+DOMAIN-SUFFIX,mdy.ac
+
+DOMAIN-SUFFIX,opentelemetry.io
+
+DOMAIN-SUFFIX,ljbfbf.com
+
+DOMAIN-SUFFIX,weserv.nl
+
+DOMAIN-SUFFIX,bangdream.moe
+
+DOMAIN-SUFFIX,8833g.cc
+
+DOMAIN-SUFFIX,9p47p.com
+
+DOMAIN-SUFFIX,wiwqhootrf.com
+
+DOMAIN-SUFFIX,gbhtmefw.xyz
+
+
+
+DOMAIN-SUFFIX,small2face.com
+DOMAIN-SUFFIX,epcifdb.xyz // Added for: qtca0.epcifdb.xyz:443
+DOMAIN-SUFFIX,jtfwnzo.xyz // Added for: lwreh.jtfwnzo.xyz:443
+DOMAIN-SUFFIX,jrqzbttl.xyz // Added for: pcso5.jrqzbttl.xyz:443
+DOMAIN-SUFFIX,naiyous.com // Added for: naiyous.com:443
+DOMAIN-SUFFIX,xtrojan.org // Added for: xtrojan.org:443
+DOMAIN-SUFFIX,eaimty.com // Added for: www.eaimty.com:443
+DOMAIN-SUFFIX,split.io // Added for: auth.split.io:443
+DOMAIN-SUFFIX,pozjqct.xyz // Added for: 9plzx.pozjqct.xyz:443
+DOMAIN-SUFFIX,pvmzdrhw.xyz // Added for: kteqy.pvmzdrhw.xyz:443
+DOMAIN-SUFFIX,v2ray-agent.com // Added for: www.v2ray-agent.com:443
+DOMAIN-SUFFIX,surge.community // Added for: wiki.surge.community:443
+DOMAIN-SUFFIX,sing-box.org // Added for: sing-box.org:443
+DOMAIN-SUFFIX,awei.pub // Added for: b.awei.pub:443
+DOMAIN-SUFFIX,stash.wiki // Added for: stash.wiki:443
+DOMAIN-SUFFIX,v2rayssr.com // Added for: v2rayssr.com:443
+DOMAIN-SUFFIX,augustdoit.men // Added for: augustdoit.men:443
+DOMAIN-SUFFIX,592083.xyz // Added for: www.592083.xyz:443
+DOMAIN-SUFFIX,imgwolong.com // Added for: imgwolong.com:443
+DOMAIN-SUFFIX,stikroltiltoowi.net // Added for: ak.stikroltiltoowi.net:443
+DOMAIN-SUFFIX,ruklibamj.com // Added for: ruklibamj.com:443
+DOMAIN-SUFFIX,lookmommynohands.com // Added for: lookmommynohands.com:443
+ 
+
+DOMAIN-SUFFIX,igeekbb.com // Added for: www.igeekbb.com:443
+DOMAIN-SUFFIX,umami.661662.xyz // Added for: umami.661662.xyz:443
+DOMAIN-SUFFIX,beaudar.lipk.org // Added for: beaudar.lipk.org:443
+DOMAIN-SUFFIX,aijichang.com // Added for: aijichang.com:443
+DOMAIN-SUFFIX,surge.tel // Added for: surge.tel:443
+
+DOMAIN-SUFFIX,app.fusebox.fm // Added for: app.fusebox.fm:443
+DOMAIN-SUFFIX,zipthelake.com // Added for: zipthelake.com:443
+DOMAIN-SUFFIX,libsyn.com // Added for: static.libsyn.com:443
+DOMAIN-SUFFIX,mxtoolbox.com // Added for: mxtoolbox.com:443
+DOMAIN-SUFFIX,fsjwlram.xyz // Added for: nf25v.fsjwlram.xyz:443
+DOMAIN-SUFFIX,xtxbfkb.xyz // Added for: mex9z.xtxbfkb.xyz:443
+DOMAIN-SUFFIX,vpsxb.net // Added for: vpsxb.net:443
+DOMAIN-SUFFIX,vpsxb.cc // Added for: tc.vpsxb.cc:443
+DOMAIN-SUFFIX,api.i-meto.com // Added for: api.i-meto.com:443
+DOMAIN-SUFFIX,gbhtmefw.xyz // Added for: f8dc1.gbhtmefw.xyz:443
+
+DOMAIN-SUFFIX,creaty.me // Added for: api.creaty.me:443
+DOMAIN-SUFFIX,devtodev.com // Added for: statgw.devtodev.com:443
+DOMAIN-SUFFIX,creaty-storage.b-cdn.net // Added for: creaty-storage.b-cdn.net:443
+
+DOMAIN-SUFFIX,cardinalcommerce.com // Added for: songbird.cardinalcommerce.com:443
+DOMAIN-SUFFIX,xfxss01.top // Added for: exp1.xfxss01.top:443
+ 
+DOMAIN-SUFFIX,flagcdn.com // Added for: flagcdn.com:443
+DOMAIN-SUFFIX,bandwagonhost.net // Added for: www.bandwagonhost.net:443
+DOMAIN-SUFFIX,laoda.de // Added for: blog.laoda.de:443
+DOMAIN-SUFFIX,gao.ee // Added for: gao.ee:443
+
+DOMAIN-SUFFIX,kiyoh.com // Added for: www.kiyoh.com:443
+DOMAIN-SUFFIX,globalapi.net // Added for: www.globalapi.net:443
+DOMAIN-SUFFIX,check-sdp.123data.net // Added for: check-sdp.123data.net:443
+
+DOMAIN-SUFFIX,weglot.com // Added for: cdn.weglot.com:443
+DOMAIN-SUFFIX,dwin1.com // Added for: www.dwin1.com:443
+DOMAIN-SUFFIX,shop.pe // Added for: shop.pe:443
+DOMAIN-SUFFIX,hellobar.com // Added for: my.hellobar.com:443
+DOMAIN-SUFFIX,pro.ip-api.com // Added for: pro.ip-api.com:443
+DOMAIN-SUFFIX,nytrng.com // Added for: nytrng.com:443
+DOMAIN-SUFFIX,safeopt.com // Added for: manage.safeopt.com:443
+DOMAIN-SUFFIX,mediawallahscript.com // Added for: partner.mediawallahscript.com:443
+DOMAIN-SUFFIX,kiwivm.64clouds.com // Added for: kiwivm.64clouds.com:443
+
+DOMAIN-SUFFIX,kaltura.com // Added for: cdnapisec.kaltura.com:443
+DOMAIN-SUFFIX,puketv.com // Added for: zy.puketv.com:443
+DOMAIN-SUFFIX,05men.com // Added for: wwzycdn.05men.com:443
+DOMAIN-SUFFIX,anti-ad.net // Added for: anti-ad.net:443
+DOMAIN-SUFFIX,lzoorgpta.com
+DOMAIN-SUFFIX,statuscast.com // Added for: statuscast.com:443
+DOMAIN-SUFFIX,fw-cdn.com // Added for: fw-cdn.com:443
+DOMAIN-SUFFIX,cdn3l.ink // Added for: cdn3l.ink:443
+DOMAIN-SUFFIX,ngl.link // Added for: ngl.link:443
+DOMAIN-SUFFIX,certainly.com
+DOMAIN-SUFFIX,noisli.com // Added for: www.noisli.com:443
+DOMAIN-SUFFIX,darknoise.app // Added for: darknoise.app:443
+DOMAIN-SUFFIX,calm.com // Added for: www.calm.com:443
+DOMAIN-SUFFIX,truemed.com // Added for: app.truemed.com:443
+DOMAIN-SUFFIX,px-cloud.net // Added for: tzm.px-cloud.net:443
+DOMAIN-SUFFIX,headspace.com // Added for: www.headspace.com:443
+DOMAIN-SUFFIX,headspace.app.link // Added for: headspace.app.link:443
+DOMAIN-SUFFIX,zuora.com // Added for: static.zuora.com:443
+DOMAIN-SUFFIX,perimeterx.net // Added for: collector-px12xk43jk.perimeterx.net:443
+DOMAIN-SUFFIX,iterable.com // Added for: api.iterable.com:443
+DOMAIN-SUFFIX,projectdragracing.trade // Added for: projectdragracing.trade:443
+DOMAIN-SUFFIX,chatwise.app // Added for: chatwise.app:443
+DOMAIN-SUFFIX,egoist.dev // Added for: umami2.egoist.dev:443
+DOMAIN-SUFFIX,affonso.io // Added for: affonso.io:443
+DOMAIN-SUFFIX,7up.pics
+DOMAIN-SUFFIX,ihcblog.com // Added for: www.ihcblog.com:443
+DOMAIN-SUFFIX,simcompanies.com // Added for: www.simcompanies.com:443
+DOMAIN-SUFFIX,betterstack.com // Added for: uptime.betterstack.com:443
+DOMAIN-SUFFIX,myreviews.ai // Added for: www.myreviews.ai:443
+DOMAIN-SUFFIX,imgs.ovh
+DOMAIN-SUFFIX,casetify.com // Added for: www.casetify.com:443
+DOMAIN-SUFFIX,klarna.com // Added for: js.klarna.com:443
+DOMAIN-SUFFIX,gdevelop.io // Added for: editor.gdevelop.io:443
+DOMAIN-SUFFIX,gdevelop-app.com // Added for: resources.gdevelop-app.com:443
+DOMAIN-SUFFIX,sanity.io // Added for: cdn.sanity.io:443
+
+DOMAIN-SUFFIX,purchasely.io // Added for: tracking.purchasely.io:443
+DOMAIN-SUFFIX,gd.games // Added for: gd.games:443
+DOMAIN-SUFFIX,kelee.one // Added for: kelee.one:443
+DOMAIN-SUFFIX,api.huacloud.xyz // Added for: api.huacloud.xyz:443
+DOMAIN-SUFFIX,unity3dusercontent.com // Added for: 5e22fef6-5a8c-476d-8f6e-a6eb6dda6a4c.cloudcontent.unity3dusercontent.com:443
+DOMAIN-SUFFIX,onlyfans.com // Added for: onlyfans.com:443
+DOMAIN-SUFFIX,zmyos.com // Added for: blog.zmyos.com:443
+DOMAIN-SUFFIX,5sim.net // Added for: 5sim.net:443
+DOMAIN-SUFFIX,colendilabs.com // Added for: oldubil.colendilabs.com:443
+DOMAIN-SUFFIX,sms-activate.org // Added for: sms-activate.org:443
+DOMAIN-SUFFIX,jivosite.com // Added for: code-ya.jivosite.com:443
+DOMAIN-SUFFIX,chatway.app // Added for: cdn.chatway.app:443
+DOMAIN-SUFFIX,snapmail100.com // Added for: yt.snapmail100.com:443
+DOMAIN-SUFFIX,fastwave.tw // Added for: www.fastwave.tw:443
+DOMAIN-SUFFIX,xunlangbot.com // Added for: xunlangbot.com:443
+DOMAIN-SUFFIX,xvideoget.com // Added for: http://xvideoget.com/twitter/initUser?phone=
+DOMAIN-SUFFIX,biliuniverse.io // Added for: biliuniverse.io:443
+DOMAIN-SUFFIX,goodiptv.club // Added for: www.goodiptv.club:443
+DOMAIN-SUFFIX,hls.one // Added for: zy.hls.one:443
+DOMAIN-SUFFIX,xiaomaomi.cc // Added for: http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=detail&wd=%E7%82%BC%E6%B0%94%E5%8D%81%E4%B8%87%E5%B9%B4
+DOMAIN-SUFFIX,ffzypic.com // Added for: img.ffzypic.com:443
+DOMAIN-SUFFIX,vip.lz-cdn3.com // Added for: vip.lz-cdn3.com:443
+
+DOMAIN-SUFFIX,eneba.com // Added for: www.eneba.com:443
+DOMAIN-SUFFIX,nsureapi.com // Added for: sdk.nsureapi.com:443
+DOMAIN-SUFFIX,eneba.games // Added for: static.eneba.games:443
+DOMAIN-SUFFIX,piped.video // Added for: piped.video:443
+DOMAIN-SUFFIX,kavin.rocks // Added for: pipedapi.kavin.rocks:443
+DOMAIN-SUFFIX,gpaynow.com // Added for: gpaynow.com:443
+DOMAIN-SUFFIX,aiv-delivery.net // Added for: api.us-east-1.aiv-delivery.net:443
+DOMAIN-SUFFIX,userscript.zone // Added for: api.userscript.zone:443
+DOMAIN-SUFFIX,wedata.net // Added for: http://wedata.net/databases/AutoPagerize/items_all.json?1745064229736
+DOMAIN-SUFFIX,pagetual.hoothin.com // Added for: pagetual.hoothin.com:443
+DOMAIN-SUFFIX,ko-fi.com // Added for: ko-fi.com:443
+DOMAIN-SUFFIX,playerjy.com // Added for: jx.playerjy.com:443
+DOMAIN-SUFFIX,staticfile.link // Added for: getdata.staticfile.link:443
+DOMAIN-SUFFIX,bodiscdn.com // Added for: parking.bodiscdn.com:443
+DOMAIN-SUFFIX,xmflv.com // Added for: jx.xmflv.com:443
+DOMAIN-SUFFIX,omdbapi.com // Added for: omdbapi.com:443
+DOMAIN-SUFFIX,irchfre.xyz // Added for: y6pke.irchfre.xyz:443
+DOMAIN-SUFFIX,iftvdru.xyz // Added for: bk5mn.iftvdru.xyz:443
+DOMAIN-SUFFIX,ifsweoc.xyz // Added for: px65m.ifsweoc.xyz:443
+DOMAIN-SUFFIX,wlcdn88.com // Added for: cdn.wlcdn88.com:777
+DOMAIN-SUFFIX,javmg.com // Added for: javmg.com:443
+DOMAIN-SUFFIX,52cute.com // Added for: 52cute.com:443
+DOMAIN-SUFFIX,cybervynx.com // Added for: cybervynx.com:443
+DOMAIN-SUFFIX,x3re2bkgxy8yvcf.cdn-centaurus.com // Added for: x3re2bkgxy8yvcf.cdn-centaurus.com:443
+DOMAIN-SUFFIX,akumachi.com // Added for: akumachi.com:443
+DOMAIN-SUFFIX,cdn-centaurus.com // Added for: nue3mlrqqmp4.cdn-centaurus.com:443
+DOMAIN-SUFFIX,homdgcat.wiki // Added for: homdgcat.wiki:443
+DOMAIN-SUFFIX,video.iamok.in // Added for: video.iamok.in:443
+DOMAIN-SUFFIX,dgfsmkl.xyz // Added for: 4s2cz.dgfsmkl.xyz:443
+DOMAIN-SUFFIX,huohua.live // Added for: api.huohua.live:443
+DOMAIN-SUFFIX,hlx.page // Added for: rum.hlx.page:443
+DOMAIN-SUFFIX,ehtt.fly.dev // Added for: ehtt.fly.dev:443
+DOMAIN-SUFFIX,hololivepro.com // Added for: hololive.hololivepro.com:443
+DOMAIN-SUFFIX,nijisanji.jp // Added for: www.nijisanji.jp:443
+DOMAIN-SUFFIX,frostsky.com // Added for: ice.frostsky.com:443
+DOMAIN-SUFFIX,i.mij.rip // Added for: i.mij.rip:443
+DOMAIN-SUFFIX,rwscnuiz.xyz // Added for: rnyxk.rwscnuiz.xyz:443
+DOMAIN-SUFFIX,rrtbupnh.xyz // Added for: c1to9.rrtbupnh.xyz:443
+DOMAIN-SUFFIX,rtoxmjz.xyz // Added for: dopzx.rtoxmjz.xyz:443
+DOMAIN-SUFFIX,mingchikuo.craft.me // Added for: mingchikuo.craft.me:443
+DOMAIN-SUFFIX,craft.do // Added for: secure-res.craft.do:443
+DOMAIN-SUFFIX,jscrambler.com // Added for: rdr10595.jscrambler.com:443
+
+
+
+DOMAIN-SUFFIX,atdvajnfi.com
+DOMAIN-SUFFIX,zavawvsa.com
+DOMAIN-SUFFIX,interestingsomething.com
+DOMAIN-SUFFIX,blcdog.com // Added for: go.blcdog.com:443
+ 
+
+DOMAIN-SUFFIX,manga18.club // Added for: manga18.club:443
+DOMAIN-SUFFIX,snow-plus.net // Added for: www.snow-plus.net:443
+DOMAIN-SUFFIX,qksrpbic.xyz // Added for: 9smb0.qksrpbic.xyz:443
+DOMAIN-SUFFIX,picb.cc // Added for: t1.picb.cc:443
+DOMAIN-SUFFIX,amkzzela.com // Added for: amkzzela.com:80
+DOMAIN-SUFFIX,heiliao88.com // Added for: www.heiliao88.com:443
+DOMAIN-SUFFIX,rhnnwrp.xyz // Added for: cw1zs.rhnnwrp.xyz:443
+DOMAIN-SUFFIX,seyoumanhua.com // Added for: seyoumanhua.com:443
+DOMAIN-SUFFIX,aikanhanman.top // Added for: mh.aikanhanman.top:443
+DOMAIN-SUFFIX,se8.us // Added for: se8.us:443
+DOMAIN-SUFFIX,songslunger.com // Added for: af.songslunger.com:443
+DOMAIN-SUFFIX,hiooq0426.com // Added for: 1745596800.hiooq0426.com:443
+DOMAIN-SUFFIX,img.ozv.me // Added for: img.ozv.me:443
+DOMAIN-SUFFIX,twmoron.com // Added for: ww1.twmoron.com:443
+DOMAIN-SUFFIX,tappaysdk.com // Added for: js.tappaysdk.com:443
+DOMAIN-SUFFIX,eximbay.com // Added for: secureapi.eximbay.com:443
+DOMAIN-SUFFIX,mycard520.com // Added for: www.mycard520.com:443
+DOMAIN-SUFFIX,manjidi.cc // Added for: www.manjidi.cc:443
+DOMAIN-SUFFIX,mhz9.com // Added for: img.mhz9.com:443
+DOMAIN-SUFFIX,9mqz.com // Added for: img.9mqz.com:443
+DOMAIN-SUFFIX,extrabux.com // Added for: www.extrabux.com:443
+DOMAIN-SUFFIX,toptoon.com // Added for: toptoon.com:443
+DOMAIN-SUFFIX,tenping.kr // Added for: tenping.kr:443
+DOMAIN-SUFFIX,smtt6.com // Added for: smtt6.com:443
+DOMAIN-SUFFIX,18rouman.vip // Added for: p4.18rouman.vip:443
+DOMAIN-SUFFIX,mt31yu.vip // Added for: www.mt31yu.vip:9527
+DOMAIN-SUFFIX,jcsv473s.icu // Added for: tj.jcsv473s.icu:443
+DOMAIN-SUFFIX,sms-activate.world // Added for: sms-activate.world:443
+DOMAIN-SUFFIX,repology.org // Added for: repology.org:443
+DOMAIN-SUFFIX,qpics.ws // Added for: www.qpics.ws:443
+DOMAIN-SUFFIX,zbycwvz.xyz // Added for: 0hy7r.zbycwvz.xyz:443
+DOMAIN-SUFFIX,imgcdn.store // Added for: cdn-fusion.imgcdn.store:443
+DOMAIN-SUFFIX,mupocndf.com // Added for: mupocndf.com:443
+DOMAIN-SUFFIX,lheffapin.com // Added for: lheffapin.com:443
+
+
+DOMAIN-SUFFIX,i18n-pglstatp.com
+
+DOMAIN-SUFFIX,sgsnssdk.com
+
+DOMAIN-SUFFIX,thecas.xyz
+
+DOMAIN-SUFFIX,psvgamestudio.com
+DOMAIN-SUFFIX,awspopcap.com // Added for: pvz2-gs.awspopcap.com:443
+DOMAIN-SUFFIX,chronosphere.io // Added for: chronosphere.io:443
+DOMAIN-SUFFIX,cookieyes.com // Added for: log.cookieyes.com:443
+DOMAIN-SUFFIX,jjjnmdwn.xyz // Added for: lhns6.jjjnmdwn.xyz:443
+DOMAIN-SUFFIX,zlzzyyz.xyz // Added for: jsmq0.zlzzyyz.xyz:443
+DOMAIN-SUFFIX,pajpfanaqod.com // Added for: pajpfanaqod.com:443
+DOMAIN-SUFFIX,jqhttuxz.xyz // Added for: nfsoh.jqhttuxz.xyz:443
+DOMAIN-SUFFIX,tangledupincichlids.com // Added for: www.tangledupincichlids.com:443
+DOMAIN-SUFFIX,sentry-cdn.com // Added for: browser.sentry-cdn.com:443
+DOMAIN-SUFFIX,wixpress.com // Added for: sentry-next.wixpress.com:443
+DOMAIN-SUFFIX,hezu.v1.mk // Added for: hezu.v1.mk:443
+DOMAIN-SUFFIX,tools.v1.mk // Added for: tools.v1.mk:443
+DOMAIN-SUFFIX,suburl.v1.mk // Added for: suburl.v1.mk:443
+DOMAIN-SUFFIX,m.iill.top // Added for: m.iill.top:443
+DOMAIN-SUFFIX,centurygame.com // Added for: logagent-rum.centurygame.com:443
+
+DOMAIN-SUFFIX,ilivedata.com // Added for: rtm-intl-frontgate.ilivedata.com:13321
+DOMAIN-SUFFIX,centurygames.com // Added for: www.centurygames.com:443
+ 
+
+DOMAIN-SUFFIX,hongxiuzhao.xyz // Added for: hongxiuzhao.xyz:443
+DOMAIN-SUFFIX,centurygames.net // Added for: fpcs-apa.centurygames.net:443
+DOMAIN-SUFFIX,bstpvjmz.xyz // Added for: 5x3y1.bstpvjmz.xyz:443
+DOMAIN-SUFFIX,bxhpbik.xyz // Added for: lmzyc.bxhpbik.xyz:443
+DOMAIN-SUFFIX,quantumult.app // Added for: receiptcheck.quantumult.app:443
+DOMAIN-SUFFIX,itswincer.com // Added for: blog.itswincer.com:443
+DOMAIN-SUFFIX,nmmsl.top // Added for: jsd.nmmsl.top:443
+DOMAIN-SUFFIX,simcitybuildit.com // Added for: live.prod.simcitybuildit.com:443
+DOMAIN-SUFFIX,rtactivate.com // Added for: idxgm.rtactivate.com:443
+DOMAIN-SUFFIX,inmobicdn.net // Added for: i.l-dsp.inmobicdn.net:443
+DOMAIN-SUFFIX,ondigitalocean.app // Added for: agent-bb7c8e8f107ffaca00e0-zo6gz.ondigitalocean.app:443
+DOMAIN-SUFFIX,cluster-api.do-ai.run // Added for: cluster-api.do-ai.run:443
+DOMAIN-SUFFIX,cloudzy.com // Added for: cloudzy.com:443
+DOMAIN-SUFFIX,routerhosting.com // Added for: support.routerhosting.com:443
+DOMAIN-SUFFIX,matomotech.com // Added for: matomotech.com:443
+DOMAIN-SUFFIX,lightnode.com // Added for: www.lightnode.com:443
+DOMAIN-SUFFIX,getfeedback.com // Added for: websites.cdn.getfeedback.com:443
+DOMAIN-SUFFIX,miji.bid // Added for: i.miji.bid:443
+DOMAIN-SUFFIX,videodeal.world // Added for: videodeal.world:443
+DOMAIN-SUFFIX,talldig.space // Added for: talldig.space:443
+DOMAIN-SUFFIX,adguard-vpn.cc // Added for: cdn.adguard-vpn.cc:443
+DOMAIN-SUFFIX,change-appstore-country.com // Added for: change-appstore-country.com:443
+DOMAIN-SUFFIX,xogames.cloud // Added for: singles-inferno.cdn.xogames.cloud:443
+DOMAIN-SUFFIX,bredmykixnaj.com // Added for: bredmykixnaj.com:443
+DOMAIN-SUFFIX,lisahost.com // Added for: lisahost.com:443
+DOMAIN-SUFFIX,olxapgciwffu.com // Added for: olxapgciwffu.com:443
+DOMAIN-SUFFIX,kursruvfia.com // Added for: kursruvfia.com:80
+DOMAIN-SUFFIX,oneprovide.net // Added for: oneprovide.net:443
+DOMAIN-SUFFIX,bwhstats.com // Added for: bwhstats.com:443
+DOMAIN-SUFFIX,gos301.top // Added for: aoacs.gos301.top:443
+DOMAIN-SUFFIX,dumanwu1.com // Added for: http://m.dumanwu1.com/CmaJVOY/
+DOMAIN-SUFFIX,430503.xyz // Added for: 430503.xyz:443
+DOMAIN-SUFFIX,pdfexpert.com // Added for: pdfexpert.com:80
+DOMAIN-SUFFIX,cdn-rdstaticassets.readdle.com // Added for: cdn-rdstaticassets.readdle.com:443
+DOMAIN-SUFFIX,frill.co // Added for: widget.frill.co:443
+
+DOMAIN-SUFFIX,smassets.net
+DOMAIN-SUFFIX,searchatlas.com // Added for: searchatlas.com:443
+
+DOMAIN-SUFFIX,dashboard.linkgraph.com // Added for: dashboard.linkgraph.com:443
+DOMAIN-SUFFIX,t.hyros.com // Added for: 206750.t.hyros.com:443
+
+DOMAIN-SUFFIX,figpii.com // Added for: rr.figpii.com:443
+
+
+
+DOMAIN-SUFFIX,cellrebel.com
+DOMAIN-SUFFIX,spacecore.pro
+
+DOMAIN-SUFFIX,abmhulatpos.com
+DOMAIN-SUFFIX,kzuocxorfo.com
+
+DOMAIN-SUFFIX,highcharts.com
+DOMAIN-SUFFIX,api-huacloud.net
+DOMAIN-SUFFIX,ryzypics.com // Added for: ps.ryzypics.com:443
+DOMAIN-SUFFIX,owhrferi.com // Added for: owhrferi.com:443
+DOMAIN-SUFFIX,ffzy-online3.com // Added for: vip.ffzy-online3.com:443
+DOMAIN-SUFFIX,lz-cdn4.com // Added for: vip.lz-cdn4.com:443
+
+DOMAIN-SUFFIX,ptuhheaznqt.com
+DOMAIN-SUFFIX,imdbws.com
+DOMAIN-SUFFIX,nuzostgcylun.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,turingfraud.net
+
+
+DOMAIN-SUFFIX,checktrustworthiness.com
+DOMAIN-SUFFIX,picelsb.com
+DOMAIN-SUFFIX,indieapps.space
+DOMAIN-SUFFIX,guardian.co.uk
+DOMAIN-SUFFIX,turboimg.com // Added for: turboimg.com:80
+DOMAIN-SUFFIX,wsimg.com // Added for: img6.wsimg.com:443
+DOMAIN-SUFFIX,turboimg.net // Added for: turboimg.net:443
+DOMAIN-SUFFIX,turboimagehost.com // Added for: www.turboimagehost.com:443
+DOMAIN-SUFFIX,alivod.com // Added for: alivod.com:443
+DOMAIN-SUFFIX,supei.me // Added for: http://supei.me/
+DOMAIN-SUFFIX,sms-activate.ru // Added for: sms-activate.ru:443
+
+
+DOMAIN-SUFFIX,gartner.com
+DOMAIN-SUFFIX,trustpilot.com
+DOMAIN-SUFFIX,trustpilot.net
+DOMAIN-SUFFIX,gartnerweb.com
+
+
+DOMAIN-SUFFIX,uufbacad.shop
+DOMAIN-SUFFIX,prod.public.atl-paas.net // Added for: atlassian-cookies--categories.us-east-1.prod.public.atl-paas.net:443
+DOMAIN-SUFFIX,xhacgn.com // Added for: xhacgn.com:80
+DOMAIN-SUFFIX,linear.app // Added for: linear.app:443
+DOMAIN-SUFFIX,clickdid.com // Added for: www.clickdid.com:443
+DOMAIN-SUFFIX,skk.moe // Added for: cdn.skk.moe:443
+DOMAIN-SUFFIX,deltaemulator.com // Added for: faq.deltaemulator.com:443
+DOMAIN-SUFFIX,epilogue.co // Added for: www.epilogue.co:443
+DOMAIN-SUFFIX,classicgamezone.com // Added for: classicgamezone.com:443
+
+
+DOMAIN-SUFFIX,knowledgeseeker.site
+DOMAIN-SUFFIX,writesomething.sbs
+DOMAIN-SUFFIX,quasieconomist.online
+DOMAIN-SUFFIX,lichaobooks.top
+DOMAIN-SUFFIX,dudianshu.app
+DOMAIN-SUFFIX,incudream.com
+DOMAIN-SUFFIX,keypaperi.top
+DOMAIN-SUFFIX,cyber-zoo.com
+DOMAIN-SUFFIX,pdffree.store
+DOMAIN-SUFFIX,z-library.gs
+DOMAIN-SUFFIX,freeepubs.com
+DOMAIN-SUFFIX,ws3917.site
+DOMAIN-SUFFIX,grababook.shop
+DOMAIN-SUFFIX,wesinx.com
+DOMAIN-SUFFIX,librerialibre.eu
+DOMAIN-SUFFIX,z-lib.help
+DOMAIN-SUFFIX,z-lib.ps
+DOMAIN-SUFFIX,gopi.monster
+DOMAIN-SUFFIX,kcai.eu
+DOMAIN-SUFFIX,z-lib.bz
+
+DOMAIN-SUFFIX,uszem.cc
+DOMAIN-SUFFIX,miniclippt.com
+DOMAIN-SUFFIX,uga03.cc
+DOMAIN-SUFFIX,chtbaby.com
+DOMAIN-SUFFIX,ztmowd.com
+DOMAIN-SUFFIX,ksport.io
+
+
+DOMAIN-SUFFIX,ghost.org
+DOMAIN-SUFFIX,mangatranslator.ai
+DOMAIN-SUFFIX,urlimage.cc // Added for: urlimage.cc:443
+DOMAIN-SUFFIX,ppsspp.org // Added for: www.ppsspp.org:443
+DOMAIN-SUFFIX,pixnoy.com // Added for: pixnoy.com:443
+DOMAIN-SUFFIX,piokok.com // Added for: piokok.com:443
+DOMAIN-SUFFIX,iframe.ly // Added for: cdn.iframe.ly:443
+DOMAIN-SUFFIX,okav1883.xyz // Added for: www.okav1883.xyz:443
+DOMAIN-SUFFIX,cdnbooking.com // Added for: pic.cdnbooking.com:443
+DOMAIN-SUFFIX,10181128.xyz // Added for: 10181128.xyz:443
+DOMAIN-SUFFIX,meizi2.com // Added for: meizi2.com:443
+
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,heimuer.xyz
+DOMAIN-SUFFIX,wujinapi.me
+DOMAIN-SUFFIX,souavzy.vip
+DOMAIN-SUFFIX,perfops.net
+DOMAIN-SUFFIX,apilsbzy1.com
+DOMAIN-SUFFIX,apiyutu.com
+DOMAIN-SUFFIX,yfsp.tv // Added for: www.yfsp.tv:443
+DOMAIN-SUFFIX,anygate.vip // Added for: w.anygate.vip:443
+DOMAIN-SUFFIX,uutesti.com // Added for: s2-e1.uutesti.com:443
+DOMAIN-SUFFIX,hlive.io // Added for: static.hlive.io:443
+DOMAIN-SUFFIX,uutestk.com // Added for: s2-e1.uutestk.com:443
+DOMAIN-SUFFIX,newwycdn.com // Added for: s2-e1.newwycdn.com:443
+DOMAIN-SUFFIX,newyvpa.com // Added for: s2-e1.newyvpa.com:443
+DOMAIN-SUFFIX,newyvpd.com // Added for: s2-e1.newyvpd.com:443
+DOMAIN-SUFFIX,arebyte.xyz // Added for: s2-e1.arebyte.xyz:443
+DOMAIN-SUFFIX,sbacii.com // Added for: s2-e1.sbacii.com:443
+DOMAIN-SUFFIX,dentisest.com // Added for: s7-e1.dentisest.com:443
+DOMAIN-SUFFIX,doaminwhole.com // Added for: s7-e1.doaminwhole.com:443
+DOMAIN-SUFFIX,tfboyaaa.com // Added for: s7-e1.tfboyaaa.com:443
+DOMAIN-SUFFIX,tfboyaab.com // Added for: s7-e1.tfboyaab.com:443
+DOMAIN-SUFFIX,tfboyaac.com // Added for: s7-e1.tfboyaac.com:443
+DOMAIN-SUFFIX,etcbbd.xyz // Added for: s7-e1.etcbbd.xyz:443
+DOMAIN-SUFFIX,etcbbe.xyz // Added for: s7-e1.etcbbe.xyz:443
+DOMAIN-SUFFIX,etcbbf.xyz // Added for: s7-e1.etcbbf.xyz:443
+DOMAIN-SUFFIX,etcbbg.xyz // Added for: s7-e1.etcbbg.xyz:443
+DOMAIN-SUFFIX,etcbbh.xyz // Added for: s7-e1.etcbbh.xyz:443
+DOMAIN-SUFFIX,tfbgeee.com // Added for: s8-e1.tfbgeee.com:443
+DOMAIN-SUFFIX,generalcdn.com // Added for: s8-e1.generalcdn.com:443
+DOMAIN-SUFFIX,etcbbj.xyz // Added for: s8-e1.etcbbj.xyz:443
+DOMAIN-SUFFIX,tfbgaaa.com // Added for: s8-e1.tfbgaaa.com:443
+DOMAIN-SUFFIX,tfbgbbb.com // Added for: s8-e1.tfbgbbb.com:443
+DOMAIN-SUFFIX,tfbgddd.com // Added for: s8-e1.tfbgddd.com:443
+DOMAIN-SUFFIX,tfbgccc.com // Added for: s8-e1.tfbgccc.com:443
+DOMAIN-SUFFIX,bitwayeat.com // Added for: s10-e1.bitwayeat.com:443
+DOMAIN-SUFFIX,bytwogeneral.com // Added for: s10-e1.bytwogeneral.com:443
+DOMAIN-SUFFIX,timeprecei.com // Added for: s10-e1.timeprecei.com:443
+DOMAIN-SUFFIX,waytogone.com // Added for: s10-e1.waytogone.com:443
+
+
+DOMAIN-SUFFIX,etcbbi.xyz
+DOMAIN-SUFFIX,etcbbc.xyz
+DOMAIN-SUFFIX,deniest.com
+DOMAIN-SUFFIX,etcbbb.xyz
+DOMAIN-SUFFIX,etcbba.xyz
+
+
+DOMAIN-SUFFIX,sbzytpimg1.com
+DOMAIN-SUFFIX,sbzytpimg2.com
+DOMAIN-SUFFIX,Isbzytp.com
+DOMAIN-SUFFIX,souavzy.info
+DOMAIN-SUFFIX,qrserver.com
+DOMAIN-SUFFIX,makhtaba.site
+DOMAIN-SUFFIX,shemake.tk
+DOMAIN-SUFFIX,hilihili.ga
+DOMAIN-SUFFIX,filifili.cf
+
+
+DOMAIN-SUFFIX,cdromance.org
+DOMAIN-SUFFIX,romsdownload.net
+DOMAIN-SUFFIX,pawotslmiop.com
+DOMAIN-SUFFIX,tinyadz.com
+DOMAIN-SUFFIX,devhouse.pro
+DOMAIN-SUFFIX,marsx.dev
+DOMAIN-SUFFIX,countvisits.com
+DOMAIN-SUFFIX,315ttc.cc
+
+DOMAIN-SUFFIX,usermetric.io
+DOMAIN-SUFFIX,shopvoxpopulus.com
+DOMAIN-SUFFIX,wedos.delivery
+DOMAIN-SUFFIX,perfops.io
+DOMAIN-SUFFIX,vergecloud.com
+DOMAIN-SUFFIX,biljeans.com
+DOMAIN-SUFFIX,mameromsfree.com
+DOMAIN-SUFFIX,dmit.io // Added for: www.dmit.io:443
+
+
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,ign.com
+DOMAIN-SUFFIX,pitaya-clientai.com
+DOMAIN-SUFFIX,pipopay.com
+
+
+DOMAIN-SUFFIX,kagi.com
+DOMAIN-SUFFIX,opzazcvitci.com
+
+DOMAIN-SUFFIX,kwcdn.com
+DOMAIN-SUFFIX,orange.com
+DOMAIN-SUFFIX,scrubbingcenter.com
+DOMAIN-SUFFIX,sufycdn.com
+DOMAIN-SUFFIX,mncdn.com
+DOMAIN-SUFFIX,haproxy.com
+DOMAIN-SUFFIX,spadsync.com
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,gcorelabs.com
+DOMAIN-SUFFIX,swiftycdn.net
+DOMAIN-SUFFIX,trbcdn.net
+DOMAIN-SUFFIX,wzd1.cc // Added for: wzd1.cc:443
+DOMAIN-SUFFIX,payssion.com // Added for: www.payssion.com:443
+DOMAIN-SUFFIX,64clouds.com // Added for: 64clouds.com:443
+DOMAIN-SUFFIX,laxqfuapp.com // Added for: laxqfuapp.com:443
+DOMAIN-SUFFIX,mfylalov.com // Added for: mfylalov.com:443
+DOMAIN-SUFFIX,bbmmic2.com // Added for: bbmmic2.com:80
+DOMAIN-SUFFIX,picr.zz.ac // Added for: picr.zz.ac:443
+DOMAIN-SUFFIX,javdb457.com // Added for: app.javdb457.com:443
+DOMAIN-SUFFIX,jbkcdn.org // Added for: jbkcdn.org:443
+DOMAIN-SUFFIX,jbkcdn.xyz // Added for: jbkcdn.xyz:443
+DOMAIN-SUFFIX,99avcdn.org // Added for: 99avcdn.org:443
+DOMAIN-SUFFIX,jbkcdn.net // Added for: jbkcdn.net:443
+DOMAIN-SUFFIX,99avcdn.com // Added for: 99avcdn.com:443
+DOMAIN-SUFFIX,99avcdn.net // Added for: 99avcdn.net:443
+DOMAIN-SUFFIX,netflavns1.com // Added for: netflavns1.com:443
+DOMAIN-SUFFIX,mmvh01.xyz // Added for: mmvh01.xyz:443
+DOMAIN-SUFFIX,ovaltinecdn.com // Added for: goqp5vk8ekuqh.ovaltinecdn.com:443
+DOMAIN-SUFFIX,mmsi01.xyz // Added for: mmsi01.xyz:443
+DOMAIN-SUFFIX,upns.live // Added for: 7mmtv.upns.live:443
+DOMAIN-SUFFIX,engebretsoniz.sbs // Added for: sskt.engebretsoniz.sbs:443
+DOMAIN-SUFFIX,cedekkerohartf.sbs // Added for: sdqm.cedekkerohartf.sbs:443
+DOMAIN-SUFFIX,shahcanna.sbs // Added for: spuc.shahcanna.sbs:443
+DOMAIN-SUFFIX,methylstewed.com // Added for: hz.methylstewed.com:443
+DOMAIN-SUFFIX,falcoglind.sbs // Added for: sh9f.falcoglind.sbs:443
+DOMAIN-SUFFIX,catherinakatha.sbs // Added for: sh9f.catherinakatha.sbs:443
+DOMAIN-SUFFIX,jbkcdn.com // Added for: jbkcdn.com:443
+DOMAIN-SUFFIX,98avcdn.xyz // Added for: 98avcdn.xyz:443
+DOMAIN-SUFFIX,sipeskrlbtrujill.sbs // Added for: slob.sipeskrlbtrujill.sbs:443
+DOMAIN-SUFFIX,qutvihlwup.com // Added for: qutvihlwup.com:443
+DOMAIN-SUFFIX,touchgal.io // Added for: www.touchgal.io:443
+DOMAIN-SUFFIX,touchgalstatic.org // Added for: img.touchgalstatic.org:443
+DOMAIN-SUFFIX,kairogame.jp // Added for: appli.kairogame.jp:443
+DOMAIN-SUFFIX,farlightgames.com // Added for: plat-conf-gl.farlightgames.com:443
+DOMAIN-SUFFIX,farlightgmes.com
+DOMAIN-SUFFIX,40img.click // Added for: 40img.click:80
+DOMAIN-SUFFIX,faxiantv.com // Added for: faxiantv.com:443
+DOMAIN-SUFFIX,diancigaoshou.com // Added for: www.diancigaoshou.com:443
+DOMAIN-SUFFIX,123av.com // Added for: 123av.com:443
+DOMAIN-SUFFIX,javsts.com // Added for: cdn.javsts.com:443
+DOMAIN-SUFFIX,ruddy-pass.com // Added for: ruddy-pass.com:443
+DOMAIN-SUFFIX,tyzyphize.pro // Added for: www.tyzyphize.pro:443
+DOMAIN-SUFFIX,streamtape.xyz // Added for: streamtape.xyz:443
+DOMAIN-SUFFIX,watchadsontape.com // Added for: watchadsontape.com:443
+DOMAIN-SUFFIX,tapecontent.net // Added for: thumb.tapecontent.net:443
+DOMAIN-SUFFIX,javclan.com // Added for: javclan.com:443
+DOMAIN-SUFFIX,vidjav.net // Added for: vidjav.net:443
+DOMAIN-SUFFIX,guardstorage.net // Added for: i.guardstorage.net:443
+DOMAIN-SUFFIX,streamhihi.com // Added for: streamhihi.com:443
+DOMAIN-SUFFIX,lulucdn.com // Added for: a.lulucdn.com:443
+DOMAIN-SUFFIX,streamhihi.com // Added for: streamhihi.com:443
+DOMAIN-SUFFIX,lulustream.com // Added for: lulustream.com:443
+
+
+DOMAIN-SUFFIX,jabodzaxfja.com
+DOMAIN-SUFFIX,khifreoftn.com
+DOMAIN-SUFFIX,mangaclan.net
+
+
+DOMAIN-SUFFIX,appbaqend.com
+DOMAIN-SUFFIX,appodeal.com
+DOMAIN-SUFFIX,xinghmob.top // Added for: xinghmob.top:443
+
+
+DOMAIN-SUFFIX,ruvrkunta.com
+DOMAIN-SUFFIX,vmickumfiol.com
+DOMAIN-SUFFIX,cardinaltrusted.com
+DOMAIN-SUFFIX,umami.is // Added for: cloud.umami.is:443
+DOMAIN-SUFFIX,umami.dev // Added for: api-gateway.umami.dev:443
+DOMAIN-SUFFIX,tally.so // Added for: tally.so:443
+DOMAIN-SUFFIX,plausible.io // Added for: plausible.io:443
+DOMAIN-SUFFIX,anzz.top // Added for: anzz.top:443
+DOMAIN-SUFFIX,superbot.me // Added for: superbot.me:443
+
+DOMAIN-SUFFIX,futurecdn.net
+DOMAIN-SUFFIX,indiatimes.in
+DOMAIN-SUFFIX,habby.mobi // Added for: receiver.habby.mobi:443
+DOMAIN-SUFFIX,wittledefender.com // Added for: prod-api-gateway.wittledefender.com:443
+DOMAIN-SUFFIX,habbyservice.com // Added for: habbyid.habbyservice.com:443
+DOMAIN-SUFFIX,easytechgame.com // Added for: world.ws.easytechgame.com:443
+DOMAIN-SUFFIX,chosenonegames.com // Added for: got-gm-api-formal.chosenonegames.com:443
+DOMAIN-SUFFIX,surveymonkey.net // Added for: surveymonkey.net:80
+DOMAIN-SUFFIX,myrqsb.com // Added for: vodcnd07.myrqsb.com:443
+DOMAIN-SUFFIX,bfzycdn.com // Added for: s4.bfzycdn.com:443
+DOMAIN-SUFFIX,yzzy-tv-cdn.com // Added for: cdn6.yzzy-tv-cdn.com:443
+DOMAIN-SUFFIX,pipecdn.vip // Added for: sss2-e1.pipecdn.vip:443
+DOMAIN-SUFFIX,dyxs39.com // Added for: dyxs39.com:443
+DOMAIN-SUFFIX,jumomo.cc // Added for: www.jumomo.cc:443
+DOMAIN-SUFFIX,tufun.top // Added for: aadd.tufun.top:443
+DOMAIN-SUFFIX,atqpacsp.sbs // Added for: oss.atqpacsp.sbs:443
+DOMAIN-SUFFIX,lookbook.top // Added for: console.lookbook.top:443
+DOMAIN-SUFFIX,ckhao.top // Added for: guangzhou-01.ckhao.top:443
+DOMAIN-SUFFIX,lz-cdn16.com // Added for: vip.lz-cdn16.com:443
+DOMAIN-SUFFIX,ndemiccreations.com // Added for: s.ndemiccreations.com:443
+DOMAIN-SUFFIX,t66ymirror.com // Added for: t66ymirror.com:443
+DOMAIN-SUFFIX,magsrv.com // Added for: a.magsrv.com:443
+DOMAIN-SUFFIX,pemsrv.com // Added for: a.pemsrv.com:443
+DOMAIN-SUFFIX,afcdn.net // Added for: s3t3d2y9.afcdn.net:443
+DOMAIN-SUFFIX,playrix.com // Added for: msg.township-ios.playrix.com:8192
+
+
+DOMAIN-SUFFIX,posmessage.com
+DOMAIN-SUFFIX,weuser.net
+DOMAIN-SUFFIX,userka.com
+DOMAIN-SUFFIX,xns.one // Added for: xns.one:443
+DOMAIN-SUFFIX,firecore.com // Added for: firecore.com:443
+DOMAIN-SUFFIX,hlcgw.com // Added for: hlcgw.com:443
+DOMAIN-SUFFIX,blockblastgame.onelink.me // Added for: blockblastgame.onelink.me:443
+DOMAIN-SUFFIX,hungrystudio.com // Added for: hungrystudio.com:443
+DOMAIN-SUFFIX,hjpfe1.com // Added for: hjpicc.hjpfe1.com:443
+DOMAIN-SUFFIX,hjbd80.top // Added for: test.hjbd80.top:443
+DOMAIN-SUFFIX,opneon.com // Added for: opneon.com:443
+DOMAIN-SUFFIX,heiliao365.com // Added for: heiliao365.com:443
+DOMAIN-SUFFIX,aazfwxb.xyz // Added for: stats.aazfwxb.xyz:443
+
+
+
+DOMAIN-SUFFIX,meizi1.com // Added for: meizi1.com:443
+DOMAIN-SUFFIX,blkj58.com // Added for: mp4.blkj58.com:443
+DOMAIN-SUFFIX,boombit.com // Added for: api.crosspromo.boombit.com:443
+DOMAIN-SUFFIX,okav6224.xyz // Added for: www.okav6224.xyz:443
+DOMAIN-SUFFIX,okvcdn.com // Added for: vid.okvcdn.com:443
+DOMAIN-SUFFIX,pixiv.re // Added for: i.pixiv.re:443
+DOMAIN-SUFFIX,assetsconfigcdn.org // Added for: assetsconfigcdn.org:443
+DOMAIN-SUFFIX,analysisbulk.mom // Added for: analysisbulk.mom:443
+
+
+
+DOMAIN-SUFFIX,trophyapi.com 
+DOMAIN-SUFFIX,supersonicads.com // Added for: init.supersonicads.com:443
+DOMAIN-SUFFIX,alexplay.net // Added for: alexplay.net:443
+DOMAIN-SUFFIX,fscdn.eppo.cloud // Added for: fscdn.eppo.cloud:443
+DOMAIN-SUFFIX,framerusercontent.com // Added for: framerusercontent.com:443
+DOMAIN-SUFFIX,framer.com // Added for: framer.com:443
+DOMAIN-SUFFIX,framerstatic.com // Added for: app.framerstatic.com:443
+DOMAIN-SUFFIX,warriorgame.mobi // Added for: ta-warrior.warriorgame.mobi:8991
+DOMAIN-SUFFIX,manhwaraw.club // Added for: manhwaraw.club:443
+DOMAIN-SUFFIX,high26-playback.com // Added for: vvip.high26-playback.com:443
+DOMAIN-SUFFIX,errortrace.dev // Added for: errortrace.dev:443
+DOMAIN-SUFFIX,himalaya.com // Added for: cdn.himalaya.com:443
+DOMAIN-SUFFIX,azurgames.com // Added for: rre-profile-grpc.k8s.azurgames.com:443
+DOMAIN-SUFFIX,kingsgroupgames.com // Added for: devproxy.kingsgroupgames.com:443
+DOMAIN-SUFFIX,funplus.com // Added for: fp-passport.funplus.com:443
+DOMAIN-SUFFIX,kairopark.jp // Added for: kairopark.jp:443
+DOMAIN-SUFFIX,kagoya.net // Added for: kagoya.net:443
+DOMAIN-SUFFIX,tiltingpoint.com // Added for: tiltingpoint.com:443
+DOMAIN-SUFFIX,tiltingpoint.io // Added for: utctime.tiltingpoint.io:443
+DOMAIN-SUFFIX,leanplum.com // Added for: api.leanplum.com:443
+DOMAIN-SUFFIX,edgeworksentertainment.com // Added for: http://athena.edgeworksentertainment.com/server_faq.php?trackid=1&language=ChineseSimplified
+DOMAIN-SUFFIX,pikpok.com // Added for: pcubed-prod.pikpok.com:443
+DOMAIN-SUFFIX,afterincgame.com // Added for: afterincgame.com:443
+DOMAIN-SUFFIX,manhwa18.net // Added for: manhwa18.net:443
+DOMAIN-SUFFIX,hyvor.com // Added for: talk.hyvor.com:443
+DOMAIN-SUFFIX,fotoimatge.com // Added for: js.fotoimatge.com:443
+DOMAIN-SUFFIX,iplocation.net // Added for: api.iplocation.net:443
+
+
+
+##################
+
+DOMAIN-SUFFIX,melbicom.net // Added for: speedtest-lax.melbicom.net:8080
+DOMAIN-SUFFIX,xfernet.net // Added for: speedtest.lax01.xfernet.net:8080
+DOMAIN-SUFFIX,perfectip.net // Added for: speedtest-lax.perfectip.net:8080
+DOMAIN-SUFFIX,getonward.com // Added for: speedtest-la.getonward.com:8080
+DOMAIN-SUFFIX,downdetectorapi.com // Added for: st.downdetectorapi.com:443
+DOMAIN-SUFFIX,speedtest.uia.net // Added for: speedtest.uia.net:8080
+DOMAIN-SUFFIX,speedtest.windstream.net // Added for: la02.speedtest.windstream.net:8080
+DOMAIN-SUFFIX,speedtest-server-lax.starry.com // Added for: speedtest-server-lax.starry.com:8080
+DOMAIN-SUFFIX,laxla0001speedtestserver01.wiline.com // Added for: laxla0001speedtestserver01.wiline.com:8080
+DOMAIN-SUFFIX,sharktech.net // Added for: ookla.la.ca.sharktech.net:8080
+DOMAIN-SUFFIX,nightchina.net // Added for: nightchina.net:443
+
+
+DOMAIN-SUFFIX,91porna.com // Added for: 91porna.com:443
+DOMAIN-SUFFIX,meizi5.com // Added for: meizi5.com:443
+DOMAIN-SUFFIX,xuejievip.com // Added for: xuejievip.com:443
+DOMAIN-SUFFIX,cdn.fdcservers.com // Added for: cdn.d2a0ae877132.cdn.fdcservers.com:443
+DOMAIN-SUFFIX,nineyu.com // Added for: nineyu.com:443
+DOMAIN-SUFFIX,sunnycloudstone.com // Added for: sunnycloudstone.com:443
+DOMAIN-SUFFIX,javdb560.com // Added for: app.javdb560.com:443
+DOMAIN-SUFFIX,cdnlz20.com // Added for: v.cdnlz20.com:443
+DOMAIN-SUFFIX,ffzy-play9.com // Added for: vip.ffzy-play9.com:443
+DOMAIN-SUFFIX,gaze.run // Added for: gaze.run:443
+DOMAIN-SUFFIX,laodifang.icu // Added for: www.laodifang.icu:443
+DOMAIN-SUFFIX,laodifang.cc // Added for: www.laodifang.cc:443
+DOMAIN-SUFFIX,histat.com // Added for: histat.com:443
+DOMAIN-SUFFIX,dytt-img.com // Added for: vip.dytt-img.com:443
+DOMAIN-SUFFIX,ke-mi.vip // Added for: qp.ke-mi.vip:443
+DOMAIN-SUFFIX,polyfill.site // Added for: cdn.polyfill.site:443
+DOMAIN-SUFFIX,picbf.com // Added for: img.picbf.com:443
+DOMAIN-SUFFIX,laodifang.tv // Added for: player.laodifang.tv:443
+DOMAIN-SUFFIX,maccms.com // Added for: union.maccms.com:443
+DOMAIN-SUFFIX,dplayerjs.com // Added for: union.dplayerjs.com:443
+DOMAIN-SUFFIX,dytt-cinema.com // Added for: vip.dytt-cinema.com:443
+DOMAIN-SUFFIX,ldfcdn.icu // Added for: parse.ldfcdn.icu:443
+DOMAIN-SUFFIX,bf8bf.com // Added for: 8.bf8bf.com:443
+DOMAIN-SUFFIX,imgly.net // Added for: imgly.net:443
+DOMAIN-SUFFIX,suboimage.com // Added for: suboimage.com:443
+DOMAIN-SUFFIX,yinghuazy.xyz // Added for: cdn.yinghuazy.xyz:443
+DOMAIN-SUFFIX,imgzy360.com // Added for: www.imgzy360.com:7788
+DOMAIN-SUFFIX,bfllvip.com // Added for: s1.bfllvip.com:443
+DOMAIN-SUFFIX,dytt-luck.com // Added for: vip.dytt-luck.com:443
+DOMAIN-SUFFIX,wuxianzy.xyz // Added for: img.wuxianzy.xyz:443
+DOMAIN-SUFFIX,ukuapi88.com // Added for: img.ukuapi88.com:443
+DOMAIN-SUFFIX,dytt-cine.com // Added for: vip.dytt-cine.com:443
+DOMAIN-SUFFIX,image8899.net // Added for: img.image8899.net:443
+DOMAIN-SUFFIX,dytt-hot.com // Added for: vip.dytt-hot.com:443
+DOMAIN-SUFFIX,360zy.com // Added for: 360zy.com:443
+DOMAIN-SUFFIX,fczy888.me // Added for: api.fczy888.me:443
+DOMAIN-SUFFIX,tyyszy5.com // Added for: ty.tyyszy5.com:443
+DOMAIN-SUFFIX,maotaizy.cc // Added for: caiji.maotaizy.cc:443
+DOMAIN-SUFFIX,youkupic.com // Added for: pic.youkupic.com:443
+DOMAIN-SUFFIX,jisuimage.com // Added for: img.jisuimage.com:443
+DOMAIN-SUFFIX,yczy5.com // Added for: yczy5.com:443
+DOMAIN-SUFFIX,mtpicture.com // Added for: mtpicture.com:443
+DOMAIN-SUFFIX,rrcdnbf2.com // Added for: c1.rrcdnbf2.com:443
+DOMAIN-SUFFIX,gggread.com // Added for: v7.gggread.com:443
+DOMAIN-SUFFIX,lzcdn23.com // Added for: v.lzcdn23.com:443
+DOMAIN-SUFFIX,jisuzyv.com // Added for: vv.jisuzyv.com:443
+DOMAIN-SUFFIX,jisuts.com // Added for: p.jisuts.com:999
+DOMAIN-SUFFIX,guoluche.com // Added for: vod.guoluche.com:443
+DOMAIN-SUFFIX,bvvvvvvvvv1f.com // Added for: p.bvvvvvvvvv1f.com:443
+DOMAIN-SUFFIX,ddbbffcdn.com // Added for: c1.ddbbffcdn.com:443
+DOMAIN-SUFFIX,thegamekitchen.com // Added for: thegamekitchen.com:443
+DOMAIN-SUFFIX,23img.org // Added for: 23img.org:443
+DOMAIN-SUFFIX,ymawv.la // Added for: tu.ymawv.la:443
+DOMAIN-SUFFIX,ylimg.com // Added for: pic.ylimg.com:443
+DOMAIN-SUFFIX,bb56367813.com // Added for: bb56367813.com:443
+DOMAIN-SUFFIX,zqbao.vip // Added for: 2025.zqbao.vip:443
+DOMAIN-SUFFIX,lain.la // Added for: pomf2.lain.la:443
+DOMAIN-SUFFIX,intentiq.com // Added for: sync.intentiq.com:443
+DOMAIN-SUFFIX,adnxs.com // Added for: ib.adnxs.com:443
+DOMAIN-SUFFIX,temu.com // Added for: www.temu.com:443
+DOMAIN-SUFFIX,adguardcdn.com // Added for: adguardcdn.com:443
+DOMAIN-SUFFIX,soman.com // Added for: www.soman.com:443
+DOMAIN-SUFFIX,hisoman.com // Added for: fm7.hisoman.com:443
+DOMAIN-SUFFIX,esm.sh // Added for: esm.sh:443
+DOMAIN-SUFFIX,maibaapp.com // Added for: http://webimg.maibaapp.com/content/img/avatars/20165010/20/50/22996.jpg
+DOMAIN-SUFFIX,18comic.ink // Added for: 18comic.ink:443
+DOMAIN-SUFFIX,qwuanvab.com // Added for: qwuanvab.com:443
+DOMAIN-SUFFIX,pubjzoxav.com // Added for: pubjzoxav.com:443
+DOMAIN-SUFFIX,ovtxciohratz.com // Added for: ovtxciohratz.com:443
+DOMAIN-SUFFIX,simsivwfaaf.com // Added for: simsivwfaaf.com:443
+DOMAIN-SUFFIX,iuiausb.cc // Added for: busy.iuiausb.cc:443
+DOMAIN-SUFFIX,githubusercontent.com // Added for: raw.githubusercontent.com:443
+DOMAIN-SUFFIX,github.com // Added for: github.com:443
+DOMAIN-SUFFIX,githubassets.com // Added for: github.githubassets.com:443
+DOMAIN-SUFFIX,18comic.vip // Added for: 18comic.vip:443
+DOMAIN-SUFFIX,github.io // Added for: malsup.github.io:443
+DOMAIN-SUFFIX,safebrowsing.apple // Added for: proxy.safebrowsing.apple:80
+DOMAIN-SUFFIX,jdbstatic.com // Added for: c0.jdbstatic.com:443
+DOMAIN-SUFFIX,ehgt.org // Added for: ehgt.org:443
+DOMAIN-SUFFIX,hoyoverse.com // Added for: hsr.hoyoverse.com:443
+DOMAIN-SUFFIX,underhentai.net // Added for: www.underhentai.net:443
+DOMAIN-SUFFIX,netflav5.com // Added for: netflav5.com:443
+DOMAIN-SUFFIX,zstaticcdn.com // Added for: lf6-unpkg.zstaticcdn.com:443
+DOMAIN-SUFFIX,adguard-dns.io // Added for: adguard-dns.io:443
+DOMAIN-SUFFIX,jquery.com // Added for: code.jquery.com:443
+DOMAIN-SUFFIX,fastly-edge.com // Added for: fastly-edge.com:443
+DOMAIN-SUFFIX,postimg.cc // Added for: postimg.cc:443
+DOMAIN-SUFFIX,hegre-brunette-girls.com // Added for: hegre-brunette-girls.com:443
+DOMAIN-SUFFIX,cloudinary.com // Added for: pplx-res.cloudinary.com:443
+DOMAIN-SUFFIX,iva-api.com // Added for: iva-api.com:443
+DOMAIN-SUFFIX,niumy.cc // Added for: m.niumy.cc:443
+DOMAIN-SUFFIX,buondua.us // Added for: i.buondua.us:443
+DOMAIN-SUFFIX,nexitally.com // Added for: nexitally.com:443
+DOMAIN-SUFFIX,shields.io // Added for: img.shields.io:443
+DOMAIN-SUFFIX,daerisoft.com // Added for: recv-thinkingdata.daerisoft.com:443
+DOMAIN-SUFFIX,pixelstarships2.com // Added for: api.pixelstarships2.com:443
+DOMAIN-SUFFIX,player-auth.services.api.unity.com // Added for: player-auth.services.api.unity.com:443
+DOMAIN-SUFFIX,config.services.api.unity.com // Added for: config.services.api.unity.com:443
+DOMAIN-SUFFIX,imagebam.com // Added for: thumbs4.imagebam.com:443
+DOMAIN-SUFFIX,counter.yadro.ru // Added for: counter.yadro.ru:443
+DOMAIN-SUFFIX,alicesw.com // Added for: www.alicesw.com:443
+DOMAIN-SUFFIX,img.321cdn.com // Added for: img.321cdn.com:443
+DOMAIN-SUFFIX,69story.com // Added for: 69story.com:443
+DOMAIN-SUFFIX,epicgames.com // Added for: tracking.epicgames.com:443
+DOMAIN-SUFFIX,unrealengine.com // Added for: cms-assets.unrealengine.com:443
+DOMAIN-SUFFIX,adtidy.info // Added for: email-link.adtidy.info:443
+DOMAIN-SUFFIX,adguard-vpn.info // Added for: adguard-vpn.info:443
+DOMAIN-SUFFIX,adguardcdn.net // Added for: st.adguardcdn.net:443
+DOMAIN-SUFFIX,adguardvpn.com // Added for: cdn.adguardvpn.com:443
+DOMAIN-SUFFIX,rsc.cdn77.org // Added for: 1202078774.rsc.cdn77.org:443
+DOMAIN-SUFFIX,documents.io // Added for: documents.io:443
+DOMAIN-SUFFIX,ibb.co // Added for: ibb.co:443
+DOMAIN-SUFFIX,imgbb.com // Added for: imgbb.com:443
+DOMAIN-SUFFIX,zaktucdkuvw.com // Added for: zaktucdkuvw.com:443
+DOMAIN-SUFFIX,btiosxrukb.com // Added for: btiosxrukb.com:443
+DOMAIN-SUFFIX,yang-1989.eu.org // Added for: yang-1989.eu.org:443
+DOMAIN-SUFFIX,adguard.com // Added for: adguard.com:443
+
+
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,oneesports.gg
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,everestop.io
+DOMAIN-SUFFIX,essential-japan.com
+DOMAIN-SUFFIX,lootlevelchill.com
+DOMAIN-SUFFIX,myavlive.com // Added for: creative.myavlive.com:443
+DOMAIN-SUFFIX,strpst.com // Added for: assets.strpst.com:443
+
+DOMAIN-SUFFIX,sacdnssedge.com // Added for: tsvideo.sacdnssedge.com:443
+DOMAIN-SUFFIX,doppiocdn.com // Added for: img.doppiocdn.com:443
+DOMAIN-SUFFIX,stripchat.org // Added for: stripchat.org:443
+DOMAIN-SUFFIX,fapchatvip.com // Added for: fapchatvip.com:443
+DOMAIN-SUFFIX,growcdnssedge.com // Added for: edge-hls.growcdnssedge.com:443
+
+
+
+DOMAIN-SUFFIX,rortoscdn.com
+DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,ripostegames.com
+DOMAIN-SUFFIX,tensquaregames.com
+DOMAIN-SUFFIX,backblazeb2.com
+DOMAIN-SUFFIX,simgbb.com
+
+
+
+
+
+DOMAIN-SUFFIX,natterresail.com // Added for: http://natterresail.com/
+
+
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+
+DOMAIN-SUFFIX,folo.is 
+DOMAIN-SUFFIX,geekbench.com 
+DOMAIN-SUFFIX,servercat.app 
+DOMAIN-SUFFIX,hertzen.com
+DOMAIN-SUFFIX,ipsw.me
+DOMAIN-SUFFIX,onfastspring.com
+DOMAIN-SUFFIX,etsystatic.com
+DOMAIN-SUFFIX,giztop.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,edgeuno.com 
+DOMAIN-SUFFIX,5x5tele.com 
+DOMAIN-SUFFIX,charter.com 
+DOMAIN-SUFFIX,race.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhkapp.com
+DOMAIN-SUFFIX,z3img.com
+DOMAIN-SUFFIX,rapid7.com
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,truste.com
+DOMAIN-SUFFIX,metahuman.com
+DOMAIN-SUFFIX,twinmotion.com 
+DOMAIN-SUFFIX,boxjs.com
+DOMAIN-SUFFIX,touchgal.us
+DOMAIN-SUFFIX,giphy.com
+
+DOMAIN-SUFFIX,feralinteractive.com // Added for: u1.feralinteractive.com:443
+DOMAIN-SUFFIX,heiliao.com // Added for: heiliao.com:443
+DOMAIN-SUFFIX,avbebe.com // Added for: avbebe.com:443
+DOMAIN-SUFFIX,cdn2020.com // Added for: t26.cdn2020.com:443
+DOMAIN-SUFFIX,supjav.com // Added for: supjav.com:443
+DOMAIN-SUFFIX,jav.guru // Added for: jav.guru:443
+DOMAIN-SUFFIX,javmost.cx // Added for: javmost.cx:443
+DOMAIN-SUFFIX,mushroomtrack.com // Added for: gmas-clena.mushroomtrack.com:443
+DOMAIN-SUFFIX,123av.me // Added for: cdn.123av.me:443
+DOMAIN-SUFFIX,javxx.com // Added for: javxx.com:443
+DOMAIN-SUFFIX,javxx.to // Added for: javxx.to:443
+DOMAIN-SUFFIX,starlink42.space // Added for: 14f6d727.starlink42.space:443
+DOMAIN-SUFFIX,surrit.store // Added for: surrit.store
+DOMAIN-SUFFIX,njav.tv // Added for: njav.tv:443
+DOMAIN-SUFFIX,netflavns2.com // Added for: netflavns2.com:443
+DOMAIN-SUFFIX,pixibay.cc // Added for: pixibay.cc:443
+DOMAIN-SUFFIX,bullishdekibpgbzc.online // Added for: dd2stliwt0bc.bullishdekibpgbzc.online:443
+DOMAIN-SUFFIX,mmfl03.com // Added for: mmfl03.com:443
+DOMAIN-SUFFIX,mmsw01.com // Added for: mmsw01.com:443
+DOMAIN-SUFFIX,mmfl04.com // Added for: mmfl04.com:443
+DOMAIN-SUFFIX,javmiku.com // Added for: cdn.javmiku.com:443
+DOMAIN-SUFFIX,javnorth.com // Added for: cdn.javnorth.com:443
+DOMAIN-SUFFIX,emturbovid.com // Added for: emturbovid.com:443
+DOMAIN-SUFFIX,turbovidhls.com // Added for: turbovidhls.com:443
+DOMAIN-SUFFIX,turboviplay.com // Added for: cdn4.turboviplay.com:443
+DOMAIN-SUFFIX,turbosplayer.com // Added for: g8.turbosplayer.com:443
+DOMAIN-SUFFIX,sptvp.com // Added for: ver02.sptvp.com:443
+DOMAIN-SUFFIX,orbitzone36.space // Added for: dba738b5.orbitzone36.space:443
+DOMAIN-SUFFIX,sparkvibe33.store // Added for: dba738b5.sparkvibe33.store:443
+DOMAIN-SUFFIX,fortnite.com // Added for: www.fortnite.com:443
+DOMAIN-SUFFIX,kanunu8.com // Added for: www.kanunu8.com:443
+DOMAIN-SUFFIX,i23img.com // Added for: i23img.com:443
+DOMAIN-SUFFIX,51cg1.com // Added for: 51cg1.com:443
+DOMAIN-SUFFIX,happymh.com // Added for: m.happymh.com:443
+DOMAIN-SUFFIX,ea.com // Added for: gateway.ea.com:443
+DOMAIN-SUFFIX,popcap.com // Added for: draper.popcap.com:443
+DOMAIN-SUFFIX,eamobile.com // Added for: product.sn.eamobile.com:443
+DOMAIN-SUFFIX,pvzfreegs.com // Added for: pvzfreegs.com:443
+DOMAIN-SUFFIX,pie-recipes.com // Added for: pie-recipes.com:443
+DOMAIN-SUFFIX,bgm.tv // Added for: bgm.tv:443
+
+DOMAIN-SUFFIX,api.rc-backup.com
+DOMAIN-SUFFIX,api.revenuecat.com
+
+DOMAIN-SUFFIX,pexels.com 
+DOMAIN-SUFFIX,nickyam.com 
+DOMAIN-SUFFIX,speed.misaka.one // Added for: us-lax02.speed.misaka.one:8080
+DOMAIN-SUFFIX,aberythmic.com // Added for: reflector.aberythmic.com:8080
+DOMAIN-SUFFIX,mapbox.com // Added for: config.mapbox.com:443
+DOMAIN-SUFFIX,jwpcdn.com // Added for: ssl.p.jwpcdn.com:443
+DOMAIN-SUFFIX,videoqoe.stvidtest.net // Added for: videoqoe.stvidtest.net:443
+
+DOMAIN-SUFFIX,epicgamescdn.com // Added for: epicgamescdn.com:443
+DOMAIN-SUFFIX,helloimg.com // Added for: www.helloimg.com:443
+DOMAIN-SUFFIX,mescroll.com // Added for: mescroll.com:443
+DOMAIN-SUFFIX,api-flowercloud.com // Added for: api-flowercloud.com:443
+DOMAIN-SUFFIX,scriptcat.org // Added for: scriptcat.org:443
+DOMAIN-SUFFIX,ampaeservices.com // Added for: afs.ampaeservices.com:443
+DOMAIN-SUFFIX,unpkg.com // Added for: unpkg.com:443
+DOMAIN-SUFFIX,ehviewer.app // Added for: ehviewer.app:443
+DOMAIN-SUFFIX,openuserjs.org // Added for: openuserjs.org:443
+DOMAIN-SUFFIX,xwbo.com // Added for: xwbo.com:443
+DOMAIN-SUFFIX,popo8.com // Added for: popo8.com:443
+DOMAIN-SUFFIX,imgs.moe // Added for: imgs.moe:443
+DOMAIN-SUFFIX,nvidia.com // Added for: nvidia.com:443
+DOMAIN-SUFFIX,cookielaw.org // Added for: cdn.cookielaw.org:443
+DOMAIN-SUFFIX,23img.xyz // Added for: 23img.xyz:80
+DOMAIN-SUFFIX,trueanthem.com // Added for: trueanthem.com:443
+DOMAIN-SUFFIX,hjw01.com // Added for: hjw01.com:443
+DOMAIN-SUFFIX,qblasjbi.cc // Added for: apiv2.qblasjbi.cc:443
+DOMAIN-SUFFIX,wyblw.com // Added for: wyblw.com:443
+DOMAIN-SUFFIX,qroogwcq.com // Added for: busy.qroogwcq.com:443
+DOMAIN-SUFFIX,51baoliao01.com // Added for: www.51baoliao01.com:443
+DOMAIN-SUFFIX,zfgskpj.com // Added for: apiv1.zfgskpj.com:443
+DOMAIN-SUFFIX,zxfuyjvs.com // Added for: apiv1.zxfuyjvs.com:443
+DOMAIN-SUFFIX,haijiaolove.xyz // Added for: www.haijiaolove.xyz:443
+DOMAIN-SUFFIX,morphify.net // Added for: wss.morphify.net:443
+DOMAIN-SUFFIX,haijiaoluv.top // Added for: img.haijiaoluv.top:443
+DOMAIN-SUFFIX,short.icu // Added for: short.icu:443
+DOMAIN-SUFFIX,iamcdn.net // Added for: iamcdn.net:443
+DOMAIN-SUFFIX,abysscdn.com // Added for: abysscdn.com:443
+DOMAIN-SUFFIX,sssrr.org // Added for: syhouinx8.sssrr.org:443
+DOMAIN-SUFFIX,globalcdn46.buzz // Added for: 741v8hifa0.globalcdn46.buzz:443
+DOMAIN-SUFFIX,paidaa.com // Added for: paidaa.com:443
+DOMAIN-SUFFIX,freeimagecdn.net // Added for: img.freeimagecdn.net:443
+DOMAIN-SUFFIX,globalcdn35.buzz // Added for: wf3lf3dnc0.globalcdn35.buzz:443
+DOMAIN-SUFFIX,globalcdn41.buzz // Added for: tequecmbb1.globalcdn41.buzz:443
+DOMAIN-SUFFIX,trycloudflare.com // Added for: fleet-discretion-movers-nano.trycloudflare.com:443
+DOMAIN-SUFFIX,hj25ja21a8.top // Added for: pic.hj25ja21a8.top:443
+DOMAIN-SUFFIX,celyixr.xyz // Added for: apiv1.celyixr.xyz:443
+DOMAIN-SUFFIX,hjaasfe.cc // Added for: hjaasfe.cc:443
+DOMAIN-SUFFIX,stripe.network // Added for: m.stripe.network:443
+DOMAIN-SUFFIX,nwstqkk.cc // Added for: apiv3.nwstqkk.cc:443
+DOMAIN-SUFFIX,ezplayer.stream // Added for: hjlove.ezplayer.stream:443
+DOMAIN-SUFFIX,fi11.app // Added for: www.fi11.app:443
+DOMAIN-SUFFIX,deky8.com // Added for: z1z.deky8.com:443
+DOMAIN-SUFFIX,oigsyha.com // Added for: apiv2.oigsyha.com:443
+DOMAIN-SUFFIX,spline.design // Added for: spline.design:443
+DOMAIN-SUFFIX,wzhuumbq.cc // Added for: apiv2.wzhuumbq.cc:443
+DOMAIN-SUFFIX,sha.cx // Added for: pszfh.sha.cx:443
+DOMAIN-SUFFIX,luzammke.cc // Added for: apiv2.luzammke.cc:443
+DOMAIN-SUFFIX,bwg.net // Added for: bwg.net:443
+DOMAIN-SUFFIX,bwh81.net // Added for: bwh81.net:443
+DOMAIN-SUFFIX,aoofdeas.com // Added for: apiv3.aoofdeas.com:443
+DOMAIN-SUFFIX,munqu.com // Added for: munqu.com:443
+DOMAIN-SUFFIX,adguard-dns.com // Added for: ah6faywojweeazgwgezqz-dnscheck.adguard-dns.com:443
+DOMAIN-SUFFIX,hglink.to // Added for: hglink.to:443
+DOMAIN-SUFFIX,haxloppd.com // Added for: haxloppd.com:443
+DOMAIN-SUFFIX,pixoraa.cc // Added for: pixoraa.cc:443
+DOMAIN-SUFFIX,mrmad.com.tw // Added for: mrmad.com.tw:443
+DOMAIN-SUFFIX,missav.live // Added for: missav.live:443
+DOMAIN-SUFFIX,missav.ai // Added for: missav.ai:443
+DOMAIN-SUFFIX,xbookcn.net // Added for: www.xbookcn.net:443
+DOMAIN-SUFFIX,xuejie1024.com // Added for: xuejie1024.com:443
+DOMAIN-SUFFIX,bootcdn.top // Added for: s8.bootcdn.top:443
+DOMAIN-SUFFIX,tvapp.eu.org // Added for: cibn-hk-5g.tvapp.eu.org:2083
+DOMAIN-SUFFIX,sviptq.com // Added for: cibntv-5g.sviptq.com:2083
+DOMAIN-SUFFIX,aibox.eu.org // Added for: www.aibox.eu.org:443
+DOMAIN-SUFFIX,z-lib.id // Added for: z-lib.id:443
+DOMAIN-SUFFIX,z-lib.ai // Added for: z-lib.ai:443
+DOMAIN-SUFFIX,ncdn.ec // Added for: dln1.ncdn.ec:443
+DOMAIN-SUFFIX,speechify.com // Added for: payment.api.speechify.com:443
+DOMAIN-SUFFIX,customer.io // Added for: cdp.customer.io:443
+DOMAIN-SUFFIX,segment.io // Added for: api.segment.io
+DOMAIN-SUFFIX,mobile-messenger.intercom.com // Added for: fix72gk8-ios.mobile-messenger.intercom.com:443
+DOMAIN-SUFFIX,downloads.intercomcdn.com // Added for: downloads.intercomcdn.com
+DOMAIN-SUFFIX,intercomassets.com // Added for: static.intercomassets.com:443
+DOMAIN-SUFFIX,asa.tools // Added for: asa.tools:443
+
+
+DOMAIN-SUFFIX,follow.is // Added for: webp.follow.is:443
+DOMAIN-SUFFIX,zynga.com // Added for: api.zynga.com:443
+DOMAIN-SUFFIX,xiaona.run // Added for: images1.xiaona.run:443
+DOMAIN-SUFFIX,hardlightgames.com // Added for: gatekeeper.hardlightgames.com:443
+DOMAIN-SUFFIX,hardlightcdn.com // Added for: grid.hardlightcdn.com:443
+IP-CIDR,35.174.168.170/32 // Added for: 35.174.168.170:8080
+DOMAIN-SUFFIX,gifruimg1.com // Added for: gifruimg1.com:443
+DOMAIN-SUFFIX,beget.tech // Added for: v924256j.beget.tech:443
+DOMAIN-SUFFIX,nsaimg.com // Added for: www.nsaimg.com:443
+DOMAIN-SUFFIX,mhvrju.info // Added for: pics.mhvrju.info:443
+DOMAIN-SUFFIX,perfectgolfdigital.com // Added for: perfectgolf-prod-gameserver.perfectgolfdigital.com:443
+DOMAIN-SUFFIX,advrpg.com // Added for: dataupdate.advrpg.com:443
+DOMAIN-SUFFIX,unity.com // Added for: unity.com:443
+
+DOMAIN-SUFFIX,agrd.io // Added for: http://agrd.io/ios_dns?utm_source=email&utm_campaign=cn-dns-app-release-v1-0&utm_medium=release_notes&utm_content=body
+DOMAIN-SUFFIX,adguardaccount.com // Added for: auth.adguardaccount.com:443
+DOMAIN-SUFFIX,gying.net // Added for: www.gying.net:443
+DOMAIN-SUFFIX,waipian.sbs // Added for: w.waipian.sbs:443
+DOMAIN-SUFFIX,waipian10.com // Added for: waipian10.com:443
+DOMAIN-SUFFIX,ffzy4.tv // Added for: http://ffzy4.tv/api.php/provide/vod/?ac=detail&wd=%E6%88%91%E6%98%AF%E7%89%B9%E7%A7%8D%E5%85%B5
+DOMAIN-SUFFIX,maoyanapi.top // Added for: api.maoyanapi.top:443
+DOMAIN-SUFFIX,dyttzyw.com // Added for: http://dyttzyw.com/api.php/provide/vod/?ac=detail&wd=%E6%88%91%E6%98%AF%E7%89%B9%E7%A7%8D%E5%85%B5
+DOMAIN-SUFFIX,qrssuv.com // Added for: v4.qrssuv.com:443
+DOMAIN-SUFFIX,rsfcxq.com // Added for: vodcnd04.rsfcxq.com:443
+DOMAIN-SUFFIX,fengbao8.com // Added for: v.fengbao8.com:443
+DOMAIN-SUFFIX,ryplay14.com // Added for: svip.ryplay14.com:443
+DOMAIN-SUFFIX,testufo.com // Added for: testufo.com:443
+DOMAIN-SUFFIX,warp.dev // Added for: go.warp.dev:443
+DOMAIN-SUFFIX,karing.app // Added for: outpost.karing.app:443
+DOMAIN-SUFFIX,iill.top // Added for: epg-1.iill.top:443
+DOMAIN-SUFFIX,minibili.zhaohe.org // Added for: minibili.zhaohe.org:443
+DOMAIN-SUFFIX,ioskuka.com // Added for: blog.ioskuka.com:443
+DOMAIN-SUFFIX,esign.yyyue.xyz // Added for: esign.yyyue.xyz:443
+DOMAIN-SUFFIX,skybook.legado1.top // Added for: skybook.legado1.top:443
+DOMAIN-SUFFIX,mobilegameslist.com // Added for: mobilegameslist.com:443
+DOMAIN-SUFFIX,nutrepo.com // Added for: http://nutrepo.com/
+DOMAIN-SUFFIX,v.ps // Added for: v.ps:443
+DOMAIN-SUFFIX,vps.hosting // Added for: vps.hosting:443
+DOMAIN-SUFFIX,hosthum.com // Added for: hosthum.com:443
+DOMAIN-SUFFIX,andadinosaur.com // Added for: andadinosaur.com:443
+DOMAIN-SUFFIX,mmsi01.com // Added for: mmsi01.com:443
+DOMAIN-SUFFIX,okaa20.com // Added for: okaa20.com:443
+DOMAIN-SUFFIX,hyaa18.com // Added for: www.hyaa18.com:443
+DOMAIN-SUFFIX,qrtuv.com // Added for: bf4.qrtuv.com:443
+DOMAIN-SUFFIX,tsbfzy.com // Added for: sm4.tsbfzy.com:443
+DOMAIN-SUFFIX,wooyun.tv // Added for: wooyun.tv:443
+DOMAIN-SUFFIX,wyzoe.com // Added for: hls.wyzoe.com:443
+DOMAIN-SUFFIX,kaylees.site // Added for: kaylees.site:443
+DOMAIN-SUFFIX,airlinemanager.com // Added for: www.airlinemanager.com:443
+DOMAIN-SUFFIX,airlines-manager.com // Added for: auth.airlines-manager.com:443
+DOMAIN-SUFFIX,realflightsimulator.org // Added for: wiki.realflightsimulator.org:443
+DOMAIN-SUFFIX,rortos.com // Added for: irc.rortos.com:6697
+DOMAIN-SUFFIX,xyrality.net // Added for: sentry.xyrality.net:443
+DOMAIN-SUFFIX,logistics-empire.com // Added for: login.logistics-empire.com:443
+DOMAIN-SUFFIX,notion.site // Added for: likeable-fuschia-f06.notion.site:443
+DOMAIN-SUFFIX,wise.com // Added for: api.wise.com:443
+DOMAIN-SUFFIX,meiguodizhi.com // Added for: www.meiguodizhi.com:443
+DOMAIN-SUFFIX,braze.eu // Added for: sdk.fra-01.braze.eu:443
+DOMAIN-SUFFIX,postcodebase.com // Added for: or.postcodebase.com:443
+DOMAIN-SUFFIX,privacy.com // Added for: www.privacy.com:443
+DOMAIN-SUFFIX,website-files.com // Added for: cdn.prod.website-files.com:443
+DOMAIN-SUFFIX,capitalone.com // Added for: www.capitalone.com:443
+DOMAIN-SUFFIX,smart.link // Added for: smart.link:443
+DOMAIN-SUFFIX,rysp9.com // Added for: rysp9.com:443
+DOMAIN-SUFFIX,hidistant.com // Added for: hidistant.com:443
+DOMAIN-SUFFIX,ffzy5.tv // Added for: ffzy5.tv:443
+DOMAIN-SUFFIX,friday.tw // Added for: video.friday.tw:443
+DOMAIN-SUFFIX,freedidi.com // Added for: www.freedidi.com:443
+DOMAIN-SUFFIX,mypianku.net // Added for: www.mypianku.net:443
+DOMAIN-SUFFIX,yanetflix.com // Added for: yanetflix.com:443
+DOMAIN-SUFFIX,netflixgc.com // Added for: www.netflixgc.com:443
+DOMAIN-SUFFIX,netflixgc.tv // Added for: cjbfq.netflixgc.tv:443
+DOMAIN-SUFFIX,superbed.cc // Added for: files.superbed.cc:443
+DOMAIN-SUFFIX,dybee.tv // Added for: www.dybee.tv:443
+DOMAIN-SUFFIX,play-cdn18.com // Added for: yzzy.play-cdn18.com:443
+DOMAIN-SUFFIX,dytt-movies.com // Added for: vip.dytt-movies.com:443
+DOMAIN-SUFFIX,juhi.cc // Added for: www.juhi.cc:443
+DOMAIN-SUFFIX,o8tv.com // Added for: www.o8tv.com:443
+DOMAIN-SUFFIX,mudvod.tv // Added for: www.mudvod.tv:443
+DOMAIN-SUFFIX,tubitv.com // Added for: tubitv.com:443
+DOMAIN-SUFFIX,guazitv.tv // Added for: guazitv.tv:443
+DOMAIN-SUFFIX,panghu.lol // Added for: http://panghu.lol/
+DOMAIN-SUFFIX,baozangdh.com // Added for: tv.baozangdh.com:443
+DOMAIN-SUFFIX,55yy8.com // Added for: www.55yy8.com:443
+DOMAIN-SUFFIX,555dy.tv // Added for: 555dy.tv:80
+DOMAIN-SUFFIX,soupian.plus // Added for: soupian.plus:443
+DOMAIN-SUFFIX,aiyoubucuo.com // Added for: aiyoubucuo.com:443
+DOMAIN-SUFFIX,hcts.club // Added for: hcts.club:443
+DOMAIN-SUFFIX,yjzy.tv // Added for: yjzy.tv:443
+DOMAIN-SUFFIX,mtzy.me // Added for: mtzy.me:443
+DOMAIN-SUFFIX,kpkuang.fun // Added for: www.kpkuang.fun:443
+DOMAIN-SUFFIX,taozi008.com // Added for: taozi008.com:443
+DOMAIN-SUFFIX,shandianpic.vip // Added for: shandianpic.vip:443
+DOMAIN-SUFFIX,fentvoss.com // Added for: v6.fentvoss.com:443
+DOMAIN-SUFFIX,freeokk.me // Added for: www.freeokk.me:443
+DOMAIN-SUFFIX,shankubf.com // Added for: www.shankubf.com:443
+DOMAIN-SUFFIX,bibij.icu // Added for: cdn.bibij.icu:443
+DOMAIN-SUFFIX,niuniuzs.com // Added for: p2p.niuniuzs.com:443
+DOMAIN-SUFFIX,cupfoxys.cc // Added for: cupfoxys.cc:443
+DOMAIN-SUFFIX,2yjw.com // Added for: www.2yjw.com:443
+DOMAIN-SUFFIX,zxzjhd.com // Added for: www.zxzjhd.com:443
+DOMAIN-SUFFIX,yikaocq.com // Added for: www.yikaocq.com:443
+DOMAIN-SUFFIX,jagcys.com // Added for: www.jagcys.com:443
+DOMAIN-SUFFIX,dandantu.cc // Added for: www.dandantu.cc:443
+DOMAIN-SUFFIX,widiz.com // Added for: www.widiz.com:443
+DOMAIN-SUFFIX,hskjjglo.com // Added for: www.hskjjglo.com:443
+DOMAIN-SUFFIX,ntdm9.com // Added for: www.ntdm9.com:443
+DOMAIN-SUFFIX,ntdm8.com // Added for: www.ntdm8.com:443
+DOMAIN-SUFFIX,yhdmjx.com // Added for: danmu.yhdmjx.com:443
+DOMAIN-SUFFIX,agedm.org // Added for: www.agedm.org:443
+DOMAIN-SUFFIX,agedm.io // Added for: www.agedm.io:443
+DOMAIN-SUFFIX,ageanime.app // Added for: ageanime.app:443
+DOMAIN-SUFFIX,dmand5.com // Added for: http://www.dmand5.com/
+DOMAIN-SUFFIX,gxdm01.org // Added for: gxdm01.org:443
+DOMAIN-SUFFIX,anime1.me // Added for: anime1.me:443
+DOMAIN-SUFFIX,cycdm01.top // Added for: www.cycdm01.top:443
+DOMAIN-SUFFIX,mengfan.tv // Added for: www.mengfan.tv:443
+DOMAIN-SUFFIX,anfuns.cc // Added for: www.anfuns.cc:443
+DOMAIN-SUFFIX,huolang8.com // Added for: www.huolang8.com:443
+DOMAIN-SUFFIX,lmfun.vip // Added for: lmfun.vip:443
+DOMAIN-SUFFIX,bangumi.online // Added for: bangumi.online:443
+DOMAIN-SUFFIX,fanshudm.com // Added for: www.fanshudm.com:443
+DOMAIN-SUFFIX,fsdm.top // Added for: http://fsdm.top/
+DOMAIN-SUFFIX,heitaifun.com // Added for: www.heitaifun.com:443
+DOMAIN-SUFFIX,gugufan.com // Added for: www.gugufan.com:443
+DOMAIN-SUFFIX,fanmingming.com // Added for: live.fanmingming.com:443
+DOMAIN-SUFFIX,tvsp10.today // Added for: tvsp10.today:443
+DOMAIN-SUFFIX,88dm.tv // Added for: www.88dm.tv:443
+DOMAIN-SUFFIX,857fans.com // Added for: www.857fans.com:443
+DOMAIN-SUFFIX,scascendtrend.com // Added for: phoenix-os.scascendtrend.com:443
+
+DOMAIN-SUFFIX,lzcdn24.com // Added for: v.lzcdn24.com:443
+DOMAIN-SUFFIX,yzzy-kb-cdn.com // Added for: cdn18.yzzy-kb-cdn.com:443
+DOMAIN-SUFFIX,xysl.it.com // Added for: xyslzy-vip-1-10.xysl.it.com:443
+DOMAIN-SUFFIX,raksmart.com // Added for: billing.raksmart.com:443
+DOMAIN-SUFFIX,krypt.asia // Added for: ion.krypt.asia:443
+DOMAIN-SUFFIX,ovhcloud.com // Added for: us.ovhcloud.com:443
+DOMAIN-SUFFIX,megalayer.net // Added for: account.megalayer.net:443
+DOMAIN-SUFFIX,vpszhijia.com // Added for: vpszhijia.com:443
+DOMAIN-SUFFIX,orangevps.com // Added for: portal.orangevps.com:443
+DOMAIN-SUFFIX,appstoreprice.org // Added for: appstoreprice.org:443
+
+DOMAIN-SUFFIX,aptv.app // Added for: epg.aptv.app:443
+DOMAIN-SUFFIX,mch3.com // Added for: server.mch3.com:443
+DOMAIN-SUFFIX,ffzyread1.com // Added for: svipsvip.ffzyread1.com:443
+DOMAIN-SUFFIX,ffzy-plays.com // Added for: vip.ffzy-plays.com:443
+DOMAIN-SUFFIX,305zc.com // Added for: g4co1h.305zc.com:443
+DOMAIN-SUFFIX,yichkp.com // Added for: pic.yichkp.com:443
+DOMAIN-SUFFIX,fontawesome.com // Added for: fontawesome.com:443
+DOMAIN-SUFFIX,fortawesome.com // Added for: img.fortawesome.com:443
+DOMAIN-SUFFIX,1024.day // Added for: 1024.day:443
+DOMAIN-SUFFIX,haitangsoshu.org // Added for: www.haitangsoshu.org:443
+DOMAIN-SUFFIX,hanguomanhua.org // Added for: www.hanguomanhua.org:443
+DOMAIN-SUFFIX,renqi.ru // Added for: renqi.ru:443
+DOMAIN-SUFFIX,hath.network // Added for: snrumhc.dlhcszotvudn.hath.network:61600
+DOMAIN-SUFFIX,agit575.xyz // Added for: agit575.xyz:443
+DOMAIN-SUFFIX,pandamtl.com // Added for: pandamtl.com:443
+DOMAIN-SUFFIX,lectortmo.com // Added for: lectortmo.com:443
+DOMAIN-SUFFIX,dnsleak.asn247.net // Added for: xal5g8pfvrmlo8dx.dnsleak.asn247.net:443
+DOMAIN-SUFFIX,astrill.org // Added for: chat.astrill.org:443
+DOMAIN-SUFFIX,awswaf.com // Added for: 4c596c9ec80a.us-east-1.sdk.awswaf.com:443
+DOMAIN-SUFFIX,vert.sh // Added for: vert.sh:443
+DOMAIN-SUFFIX,kakaogames.com // Added for: live-na.esoul.kakaogames.com:1739
+DOMAIN-SUFFIX,lockincomp.com // Added for: v5xtqhwslrakzbcouzehmhqzlxphxixt.lockincomp.com:443
+DOMAIN-SUFFIX,typicode.com // Added for: jsonplaceholder.typicode.com:443
+DOMAIN-SUFFIX,pokeapi.co // Added for: pokeapi.co:443
+DOMAIN-SUFFIX,dl-game-tree.com // Added for: http://globalphoenixlbbak.dl-game-tree.com/gameres/trialres/801270/1/e2a13b8b3260d317c4f2a1dd25846cd2/1766849265/lbres.zip
+DOMAIN-SUFFIX,game-tree.com // Added for: globalphoenix3650-tj535f.game-tree.com:9002
+DOMAIN-SUFFIX,dyttzyapi.com // Added for: http://caiji.dyttzyapi.com/api.php/provide/vod?ac=videolist&ids=28979
+DOMAIN-SUFFIX,phimgood.com // Added for: play.phimgood.com:443
+DOMAIN-SUFFIX,jkbrkwjuibr.com // Added for: www.jkbrkwjuibr.com:443
+DOMAIN-SUFFIX,affsmo.xyz // Added for: hsckey.affsmo.xyz:443
+DOMAIN-SUFFIX,erlgnf.com // Added for: dpew.erlgnf.com:443
+DOMAIN-SUFFIX,hwzcfz.com // Added for: hsm3.hwzcfz.com:443
+DOMAIN-SUFFIX,hsckzy.vip // Added for: hsckzy.vip:443
+DOMAIN-SUFFIX,jkhabkrqjbj.com // Added for: jkhabkrqjbj.com:443
+DOMAIN-SUFFIX,tphsck.com // Added for: img.tphsck.com:443
+DOMAIN-SUFFIX,sbzytpimg3.com // Added for: sbzytpimg3.com:3519
+DOMAIN-SUFFIX,ckzyjpg.top // Added for: ckzyjpg.top:443
+DOMAIN-SUFFIX,guangsuapi.com // Added for: api.guangsuapi.com:443
+DOMAIN-SUFFIX,pgxdy.com // Added for: www.pgxdy.com:443
+DOMAIN-SUFFIX,kxgav.com // Added for: www.kxgav.com:443
+DOMAIN-SUFFIX,gdlsp.com // Added for: www.gdlsp.com:443
+DOMAIN-SUFFIX,msnii.com // Added for: www.msnii.com:443
+DOMAIN-SUFFIX,xrbsp.com // Added for: www.xrbsp.com:443
+DOMAIN-SUFFIX,yutuzy10.com // Added for: yutuzy10.com:443
+DOMAIN-SUFFIX,1080zyku.com // Added for: api.1080zyku.com:443
+DOMAIN-SUFFIX,lovedan.net // Added for: lovedan.net:443
+DOMAIN-SUFFIX,zuidapi.com // Added for: api.zuidapi.com:443
+DOMAIN-SUFFIX,wujinapi.com // Added for: api.wujinapi.com:443
+DOMAIN-SUFFIX,tyyszy.com // Added for: tyyszy.com:443
+DOMAIN-SUFFIX,havzy1.com // Added for: pic58.havzy1.com:443
+DOMAIN-SUFFIX,155260116.top // Added for: 116.155260116.top:443
+DOMAIN-SUFFIX,anzise.com // Added for: pic31.anzise.com:443
+DOMAIN-SUFFIX,havzy1.com // Added for: pic16.havzy1.com:443
+DOMAIN-SUFFIX,ddmf.net // Added for: ddmf.net:443
+DOMAIN-SUFFIX,hhmage.com // Added for: hhmage.com:443
+DOMAIN-SUFFIX,hongniuzyimage.com // Added for: hongniuzyimage.com:443
+DOMAIN-SUFFIX,ikisfyigdaisasdad.com // Added for: tu.ikisfyigdaisasdad.com:443
+DOMAIN-SUFFIX,xne33.com // Added for: pic16.xne33.com:443
+DOMAIN-SUFFIX,ysj77.com // Added for: pic17.ysj77.com:443
+DOMAIN-SUFFIX,havzy1.com // Added for: pic7.havzy1.com:443
+DOMAIN-SUFFIX,play-cdn9.com // Added for: yzzy.play-cdn9.com:443
+DOMAIN-SUFFIX,play-cdn7.com // Added for: yzzy.play-cdn7.com:443
+DOMAIN-SUFFIX,play-cdn17.com // Added for: yzzy.play-cdn17.com:443
+DOMAIN-SUFFIX,play-cdn2.com // Added for: yzzy.play-cdn2.com:443
+DOMAIN-SUFFIX,leduocdn.com // Added for: leduocdn.com:443
+DOMAIN-SUFFIX,jpzy01.com // Added for: jpzy01.com:443
+DOMAIN-SUFFIX,ckzy1.com // Added for: www.ckzy1.com:443
+DOMAIN-SUFFIX,gsuus.com // Added for: v.gsuus.com:443
+DOMAIN-SUFFIX,gszyi.com // Added for: gs.gszyi.com:999
+DOMAIN-SUFFIX,hav36.com // Added for: video16.hav36.com:443
+DOMAIN-SUFFIX,xlzyd.com // Added for: g.xlzyd.com:9999
+DOMAIN-SUFFIX,xluuss.com // Added for: play.xluuss.com:443
+DOMAIN-SUFFIX,icanhazip.com // Added for: icanhazip.com:443
+DOMAIN-SUFFIX,bpzy1.com // Added for: video5.bpzy1.com:443
+DOMAIN-SUFFIX,icanhazip.com // Added for: icanhazip.com:443
+DOMAIN-SUFFIX,p2100.net // Added for: p2100.net:443
+DOMAIN-SUFFIX,jkunzyapi.com // Added for: jkunzyapi.com:443
+DOMAIN-SUFFIX,155api.com // Added for: 155api.com:443
+DOMAIN-SUFFIX,huroka.com // Added for: www.huroka.com:443
+DOMAIN-SUFFIX,xzcg8.com // Added for: api.xzcg8.com:443
+DOMAIN-SUFFIX,aiav99.com // Added for: cdn.aiav99.com:443
+DOMAIN-SUFFIX,jdshipin.com // Added for: cdn.jdshipin.com:8880
+DOMAIN-SUFFIX,zxyxndc.top // Added for: http://diyp.zxyxndc.top/huya/11342412
