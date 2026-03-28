@@ -1,0 +1,394 @@
+
+
+
+# 第三方广告网络/跟踪
+DOMAIN-SUFFIX,360yield.com
+DOMAIN-SUFFIX,adform.com
+DOMAIN-SUFFIX,adform.net
+DOMAIN-SUFFIX,adnxs-simple.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,adroll.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,adsgram.ai
+DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,anzu-us.com
+DOMAIN-SUFFIX,anzu.io
+DOMAIN-SUFFIX,betweendigital.com
+DOMAIN-SUFFIX,contextweb.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,criteo.net
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,openx.com
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,outbrain.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,quantserve.com
+DOMAIN-SUFFIX,revcontent.com
+DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,zedo.com
+
+
+# 数据/SDK/监控
+DOMAIN,sl-sentry.skimlinks.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,axon.ai
+DOMAIN-SUFFIX,devtodev.com
+DOMAIN-SUFFIX,fullstory.com
+DOMAIN-SUFFIX,heap.io
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,ingest.us.sentry.io
+DOMAIN-SUFFIX,load.sentry.io
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,safedk.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,statcounter.com
+
+
+# 穿山甲广告 SDK 相关域名屏蔽
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com.w.cdngslb.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com.w.cdngslb.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com.w.cdngslb.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com.w.cdngslb.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com.w.cdngslb.com
+
+
+
+
+#
+DOMAIN-SUFFIX,miaozhen.com 
+DOMAIN-SUFFIX,qchannel01.cn
+DOMAIN-SUFFIX,qchannel02.cn
+DOMAIN-SUFFIX,qchannel03.cn
+
+
+DOMAIN-SUFFIX,cupid.iqiyi.com
+DOMAIN-SUFFIX,msg.qy.net
+DOMAIN-SUFFIX,appsflyersdk.com 
+DOMAIN-SUFFIX,sdk.e.qq.com 
+
+
+# ==================================
+# 🛑 喜马拉雅 (Ximalaya)
+# ==================================
+DOMAIN-SUFFIX,ad.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+DOMAIN-SUFFIX,adwbs.ximalaya.com
+DOMAIN-SUFFIX,web.ad.ximalaya.com
+DOMAIN-SUFFIX,adse.wbs.ximalaya.com
+DOMAIN-SUFFIX,link.ximalaya.com
+
+# ==================================
+# 🐧 腾讯系 (广点通/优量汇)
+# ==================================
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+DOMAIN-SUFFIX,win.gdt.qq.com
+DOMAIN-SUFFIX,v.gdt.qq.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,ad.qq.com
+DOMAIN-SUFFIX,ad.qun.qq.com
+DOMAIN-SUFFIX,adsh.tencentmusic.com
+#DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+
+# ==================================
+# 🛍️ 阿里系 (淘宝/UC/友盟)
+# ==================================
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,ad.m.taobao.com
+DOMAIN-SUFFIX,agoodm.m.taobao.com
+DOMAIN-SUFFIX,munion.ucweb.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,cnzz.com
+
+# ==================================
+# 🎵 字节跳动 (头条/穿山甲/Gromore)
+# ==================================
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,lf26-ad.bytecdn.cn
+DOMAIN-SUFFIX,gromore.cn
+#DOMAIN-SUFFIX,pstatp.com
+
+# ==================================
+# 📹 快手联盟 (Kuaishou Ads)
+# ==================================
+DOMAIN-SUFFIX,ad.e.kuaishou.com
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN-SUFFIX,u.kuaishou.com
+
+# ==================================
+# 🔍 百度系 (百度联盟)
+# ==================================
+DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,union.baidu.com
+DOMAIN-SUFFIX,adm.baidu.com
+
+# ==================================
+# 📊 第三方大数据统计 (独立厂商)
+# ==================================
+DOMAIN-SUFFIX,talkingdata.com
+DOMAIN-SUFFIX,talkingdata.net
+DOMAIN-SUFFIX,tenddata.com
+DOMAIN-SUFFIX,sensorsdata.cn
+DOMAIN-SUFFIX,sa.turingapi.com
+DOMAIN-SUFFIX,zhugeio.com
+DOMAIN-SUFFIX,growingio.com
+
+# ==================================
+# 📩 推送服务 (可能影响通知)
+# ==================================
+DOMAIN-SUFFIX,jiguang.cn
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,igexin.com
+
+# ==================================
+# 🎮 其他广告SDK (游戏/摇一摇)
+# ==================================
+DOMAIN-SUFFIX,ads.sigmob.cn
+DOMAIN-SUFFIX,mintegral.com
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,beizi.biz
+
+# ==================================
+# 📱 手机厂商系统广告
+# ==================================
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,ad.mi.com
+DOMAIN-SUFFIX,ad.huawei.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+
+# ==================================
+# 📱 手机厂商补充 (OV系/魅族)
+# ==================================
+# Vivo
+DOMAIN-SUFFIX,ad.vivo.com.cn
+DOMAIN-SUFFIX,ex.mobad.android.vivo.com.cn
+# Oppo
+DOMAIN-SUFFIX,ads.oppomobile.com
+DOMAIN-SUFFIX,ads.oppo.com
+# 魅族 (Meizu)
+DOMAIN-SUFFIX,aux.ad.meizu.com
+
+# ==================================
+# 🎵 特定应用专项 (微博/网易/B站)
+# ==================================
+# 微博 (Weibo) - 开屏与信息流核心
+DOMAIN-SUFFIX,sax.sina.com.cn
+DOMAIN-SUFFIX,huodong.weibo.com
+# 网易云音乐 (NetEase Music)
+DOMAIN-SUFFIX,admusic.126.net
+DOMAIN-SUFFIX,g1.163.com
+# B站 (Bilibili) - 主要是开屏和活动页
+DOMAIN-SUFFIX,cm.bilibili.com
+# 知乎 (Zhihu)
+DOMAIN-SUFFIX,sugar.zhihu.com
+# 豆瓣 (Douban)
+DOMAIN-SUFFIX,ad.douban.com
+DOMAIN-SUFFIX,erebor.douban.com
+
+# ==================================
+# 🎮 游戏聚合广告 (TopOn/TradPlus)
+# ==================================
+# 很多小游戏不直接接穿山甲，而是通过这些聚合平台中转
+DOMAIN-SUFFIX,toponad.com
+DOMAIN-SUFFIX,tradplusad.com
+DOMAIN-SUFFIX,anythinktech.com
+
+# ==================================
+# 🕵️‍♀️ 深度隐私/崩溃上报 (可选)
+# ==================================
+# 腾讯 Bugly (几乎所有腾讯系App的崩溃上报，含设备信息)
+DOMAIN-SUFFIX,bugly.qq.com
+# 阿里 Adash (阿里系深度数据上报)
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+# 字节跳动 Log (头条系日志)
+DOMAIN-SUFFIX,log.snssdk.com
+
+# bilibili
+DOMAIN-SUFFIX,cm.bilibili.com
+DOMAIN-SUFFIX,cm.bilivideo.com
+DOMAIN-SUFFIX,ad.bilibili.com
+DOMAIN-SUFFIX,e.bilibili.com
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,report.bilibili.com
+DOMAIN-SUFFIX,log.bilibili.com
+DOMAIN-SUFFIX,up-os-sh-data.bilibili.com
+DOMAIN-SUFFIX,mall.bilibili.com
+DOMAIN-SUFFIX,show.bilibili.com
+DOMAIN-SUFFIX,game.bilibili.com
+DOMAIN-SUFFIX,game.bilivideo.com
+DOMAIN-SUFFIX,live-trace.bilibili.com
+DOMAIN-SUFFIX,r.bilibili.com
+
+# taptap
+DOMAIN-SUFFIX,ad.taptap.com
+DOMAIN-SUFFIX,ads.taptap.com
+DOMAIN-SUFFIX,marketing.taptap.com
+DOMAIN-SUFFIX,promotion.taptap.com
+DOMAIN-SUFFIX,tapdb.net
+DOMAIN-SUFFIX,e.tapdb.net
+DOMAIN-SUFFIX,sd.tapdb.net
+DOMAIN-SUFFIX,tracker.tapdb.net
+DOMAIN-SUFFIX,log.taptap.com
+DOMAIN-SUFFIX,stat.taptap.com
+DOMAIN-SUFFIX,d.taptap.com
+DOMAIN-SUFFIX,report.taptap.com
+DOMAIN-SUFFIX,telemetry.taptap.com
+# 仅拦截追踪部分，放行 API
+DOMAIN-SUFFIX,tracker.tds.tapapis.cn
+DOMAIN-SUFFIX,stat.xd.com
+DOMAIN-SUFFIX,log.xd.com
+
+# ==================================
+# 🛍️ 淘宝 & 闲鱼 (广告/追踪/推荐)
+# ==================================
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,alimama.cn
+DOMAIN-SUFFIX,p4p.taobao.com
+DOMAIN-SUFFIX,ad.m.taobao.com
+DOMAIN-SUFFIX,agoodm.m.taobao.com
+DOMAIN-SUFFIX,ai.m.taobao.com
+DOMAIN-SUFFIX,optimus-ads.taobao.com
+DOMAIN-SUFFIX,simba.taobao.com
+DOMAIN-SUFFIX,simba.m.taobao.com
+DOMAIN-SUFFIX,tns.simba.taobao.com
+DOMAIN-SUFFIX,videocloud.taobao.com
+DOMAIN-SUFFIX,ad.idlefish.com
+DOMAIN-SUFFIX,g.idlefish.com
+DOMAIN-SUFFIX,guang.taobao.com
+DOMAIN-SUFFIX,log.idlefish.com
+DOMAIN-SUFFIX,tracker.idlefish.com
+DOMAIN-SUFFIX,ut.taobao.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,adashbc.ut.taobao.com
+DOMAIN-SUFFIX,beacon-api.aliyuncs.com
+
+
+# ==================================
+# 🎵 抖音 (广告/追踪/日志)
+# ==================================
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,lf26-ad.bytecdn.cn
+DOMAIN-SUFFIX,gromore.cn
+DOMAIN-SUFFIX,dsp.toutiao.com
+DOMAIN-SUFFIX,is.snssdk.com
+DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,rtlog.snssdk.com
+DOMAIN-SUFFIX,toblog.snssdk.com
+DOMAIN-SUFFIX,dm.toutiao.com
+DOMAIN-SUFFIX,mon.snssdk.com
+DOMAIN-SUFFIX,mssdk.snssdk.com
+DOMAIN-SUFFIX,mcs.snssdk.com
+DOMAIN-SUFFIX,tnc3-alisc1.snssdk.com
+DOMAIN-SUFFIX,ec.snssdk.com
+DOMAIN-SUFFIX,marketing.douyin.com
+DOMAIN-SUFFIX,tob.douyin.com
+DOMAIN-SUFFIX,qianchuan.toutiao.com
+
+
+# ==================================
+# 💳 支付宝 (日志/隐私/部分广告)
+# ==================================
+DOMAIN-SUFFIX,mdap.alipay.com
+DOMAIN-SUFFIX,mdap.alipaylog.com
+DOMAIN-SUFFIX,log.alipay.com
+DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-SUFFIX,log.alipayobjects.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,adashbc.ut.taobao.com
+DOMAIN-SUFFIX,ut.taobao.com
+DOMAIN-SUFFIX,syslog.m.taobao.com
+DOMAIN-SUFFIX,marketing.alipay.com
+DOMAIN-SUFFIX,push.m.taobao.com
+DOMAIN-SUFFIX,g.alipay.com
+DOMAIN-SUFFIX,monitor.alipay.com
+
+
+# ==================================
+# 🗺️ 高德地图 (广告/运营/追踪)
+# ==================================
+DOMAIN-SUFFIX,ad.amap.com
+DOMAIN-SUFFIX,wb.amap.com
+DOMAIN-SUFFIX,web.ad.amap.com
+DOMAIN-SUFFIX,oper.amap.com
+DOMAIN-SUFFIX,activity.amap.com
+DOMAIN-SUFFIX,page.amap.com
+DOMAIN-SUFFIX,log.amap.com
+DOMAIN-SUFFIX,mst.amap.com
+DOMAIN-SUFFIX,report.amap.com
+DOMAIN-SUFFIX,stats.amap.com
+DOMAIN-SUFFIX,behavior.amap.com
+DOMAIN-SUFFIX,push.amap.com
+DOMAIN-SUFFIX,ups.amap.com
+DOMAIN-SUFFIX,sns.amap.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tanx.com
+
+
+# ==================================
+# 🦘 美团 (广告/灵犀追踪/日志)
+# ==================================
+DOMAIN-SUFFIX,ad.meituan.com
+DOMAIN-SUFFIX,guang.meituan.com
+DOMAIN-SUFFIX,flowplus.meituan.net
+DOMAIN-SUFFIX,portal-portm.meituan.com
+DOMAIN-SUFFIX,promotion.meituan.com
+DOMAIN-SUFFIX,lx.meituan.com
+DOMAIN-SUFFIX,lx.meituan.net
+DOMAIN-SUFFIX,dreport.meituan.net
+DOMAIN-SUFFIX,wreport.meituan.net
+DOMAIN-SUFFIX,report.meituan.com
+DOMAIN-SUFFIX,flurry.meituan.com
+DOMAIN-SUFFIX,metrics.meituan.com
+DOMAIN-SUFFIX,logan.meituan.com
+DOMAIN-SUFFIX,openh5.meituan.com
+DOMAIN-SUFFIX,banma.meituan.com
+
+# ==================================
+# 🎮 米哈游 (日志/遥测/米游社)
+# ==================================
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,devlog-upload.mihoyo.com
+DOMAIN-SUFFIX,apm-log-upload.mihoyo.com
+DOMAIN-SUFFIX,uspider.mihoyo.com
+DOMAIN-SUFFIX,oversea-event.mihoyo.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+DOMAIN-SUFFIX,log-upload-os.mihoyo.com
+DOMAIN-SUFFIX,ad.mihoyo.com
+DOMAIN-SUFFIX,ads.mihoyo.com
+DOMAIN-SUFFIX,marketing.mihoyo.com
+DOMAIN-SUFFIX,e.mihoyo.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,crashlytics.com
+
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com 
+DOMAIN-SUFFIX,getui.net 
+DOMAIN-SUFFIX,gepush.com 
